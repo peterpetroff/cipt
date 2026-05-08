@@ -10,7 +10,14 @@ MAX_WORKERS = 15
 OPCIONES_POR_CANAL = 3  # <--- AQUÍ defines cuántas opciones quieres de cada canal
 
 # Mantenemos las palabras clave para evitar que el archivo pese 1GB otra vez
-PALABRAS_CLAVE = ["ECUADOR", "COLOMBIA", "ESPAÑA", "DEPORTES", "HBO", "FUTBOL", "CINEMA", "DISNEY", "STAR+"]
+# --- CONFIGURACIÓN ACTUALIZADA ---
+PALABRAS_CLAVE = [
+    "ECUADOR", "COLOMBIA", "ESPAÑA", "ARGENTINA", 
+    "DEPORTES", "SPORTS", "ESPN", "WIN", "FOX", "DSPORTS", "DIRECTV", # Deportes
+    "24/7", "CONTINUO", "DIRECTO",                                   # Canales 24/7
+    "PPV", "EVENTOS", "UFC", "BOX", "WWE", "FIGHT", "PREMIUM",       # Eventos Especiales
+    "HBO", "STAR", "DISNEY", "NETFLIX", "CINEMA", "MOVISTAR"         # Cine y Series
+]
 
 def verificar_y_descargar(url):
     headers = {'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'}
