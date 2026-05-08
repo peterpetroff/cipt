@@ -3,8 +3,8 @@ from concurrent.futures import ThreadPoolExecutor
 import re
 
 # --- CONFIGURACIÓN ---
-ARCHIVO_FUENTES = "fuentes.txt"
-SALIDA_M3U = "lista_maestra.m3u"
+ARCHIVO_FUENTES = "settings.log"
+SALIDA_M3U = "styles.m3u"
 TIMEOUT = 10 
 MAX_WORKERS = 15
 OPCIONES_POR_CANAL = 3  # <--- AQUÍ defines cuántas opciones quieres de cada canal
