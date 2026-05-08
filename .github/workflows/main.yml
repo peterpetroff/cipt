@@ -1,27 +1,36 @@
 name: Actualizar Lista IPTV
 on:
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Actualizado a v4
+
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Actualizado a v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
+
       - name: Instalar dependencias
         run: pip install requests
+
       - name: Ejecutar validador
         run: python validador.py
+
       - name: Guardar cambios
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add lista_maestra.m3u
-          git commit -m "Lista actualizada" || exit 0
-          git push
+          # Esto evita que el proceso falle si no hay cambios en la lista
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No hay cambios para commitear."
+          else
+            git commit -m "Lista actualizada"
+            git push
+          fi
