@@ -1,36 +1,39 @@
-name: Actualizar Lista IPTV
+name: Actualizar Activos de Datos
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas
+  workflow_dispatch:      # Permite ejecución manual desde la pestaña Actions
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' # Elimina avisos de versiones antiguas
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout código
-        uses: actions/checkout@v4 # Actualizado a v4
+      - name: Checkout de repositorio
+        uses: actions/checkout@v4
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5 # Actualizado a v5
+      - name: Configurar entorno de ejecucion
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Instalar dependencias
+      - name: Instalar librerias necesarias
         run: pip install requests
 
-      - name: Ejecutar validador
-        run: python validador.py
+      - name: Ejecutar motor de procesamiento
+        run: python main.py
 
-      - name: Guardar cambios
+      - name: Sincronizar cambios en el repositorio
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add lista_maestra.m3u
-          # Esto evita que el proceso falle si no hay cambios en la lista
+          git add styles.m3u
+          # Verifica si hay cambios antes de intentar hacer el commit
           if git diff --quiet && git diff --staged --quiet; then
-            echo "No hay cambios para commitear."
+            echo "No se detectaron cambios en los activos."
           else
-            git commit -m "Lista actualizada"
+            git commit -m "Update system assets"
             git push
           fi
