@@ -7,24 +7,24 @@ ARCHIVO_FUENTES = "settings.log"
 SALIDA_M3U = "styles.m3u"
 TIMEOUT = 10 
 MAX_WORKERS = 20
-OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal como solicitaste
+OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal
 
-# 1. Categorías y marcas deportivas/plataformas específicas
+# 1. Categorías y marcas deportivas/plataformas específicas solicitadas
 MARCAS_PERMITIDAS = [
     "ESPN", "DIRECTV", "DSPORTS", "ZAPPING", "FOX", "FOX SPORTS", 
     "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO"
 ]
 
-# 2. Canales infantiles y de entretenimiento general seleccionados
+# 2. Canales infantiles y entretenimiento general en vivo seleccionados (Máximo ~5 marcas de películas/series)
 ENTRETENIMIENTO_PERMITIDO = [
     "CARTOON NETWORK", "CARTOON", "DISNEY", "NICKELODEON", # Infantil
-    "HBO", "WARNER", "TNT", "UNIVERSAL", "STAR CHANNEL", "AXN", "CINEMAX" # Entretenimiento/Películas en vivo
+    "HBO", "WARNER", "TNT", "UNIVERSAL", "STAR CHANNEL", "AXN", "CINEMAX" # Entretenimiento en vivo
 ]
 
-# 3. Filtro geográfico estricto para Ecuador (buscando calidad HD)
+# 3. Filtro geográfico estricto para Ecuador y canales locales clave
 PALABRAS_ECUADOR = ["ECUADOR", "EC", "TELEAMAZONAS", "ECUAVISA", "TC TELEVISION", "RTS", "EL CANAL DEL FUTBOL", "ECDF"]
 
-# Bloqueo absoluto de bibliotecas VOD (Series y Películas que no son canales en vivo)
+# Bloqueo absoluto de bibliotecas de series y películas bajo demanda (Catálogo VOD)
 PALABRAS_PROHIBIDAS = [
     "VOD", "PELICULA:", "MOVIE:", "SERIE:", "EPISODIO", "SEASON", "CAPITULO", 
     "TEMPORADA", "ADULTO", "XXX", "ANIME", "NOVELA"
@@ -46,25 +46,25 @@ def limpiar_nombre(nombre):
 def es_canal_valido(info_line):
     info_upper = info_line.upper()
     
-    # Si detecta que es una película/serie de catálogo (VOD), queda descartada inmediatamente
+    # 1. Descarte inmediato si es contenido de catálogo (VOD)
     if any(p in info_upper for p in PALABRAS_PROHIBIDAS):
         return False
 
-    # Validación de Marcas Deportivas / Zapping / FOX
+    # 2. Validación de marcas deportivas específicas, Zapping y FOX
     if any(m in info_upper for m in MARCAS_PERMITIDAS):
         return True
 
-    # Validación de Canales de Entretenimiento específicos (fijados a ~5 marcas de películas/series en vivo + Cartoon)
+    # 3. Validación de Cartoon Network y canales de entretenimiento seleccionados
     if any(e in info_upper for e in ENTRETENIMIENTO_PERMITIDO):
         return True
 
-    # Validación estricta para Ecuador: Debe tener la marca de Ecuador y preferiblemente ser HD
+    # 4. Validación para canales de Ecuador
     if any(ec in info_upper for ec in PALABRAS_ECUADOR):
-        # Prioriza que contenga la palabra HD para asegurar la calidad que buscas
-        if "HD" in info_upper or "FHD" in info_upper:
+        # Si es un canal principal local o de deportes locales, pasa directo siempre
+        if any(local in info_upper for local in ["TELEAMAZONAS", "ECUAVISA", "TC TELEVISION", "RTS", "ECDF", "EL CANAL DEL FUTBOL"]):
             return True
-        # Si es un canal clave local, dejarlo pasar de todas formas
-        if any(local in info_upper for local in ["TELEAMAZONAS", "ECUAVISA", "TC TELEVISION", "ECDF"]):
+        # Para el resto de señales de Ecuador, asegura que sean las versiones de alta calidad
+        if "HD" in info_upper or "FHD" in info_upper or "1080" in info_upper:
             return True
 
     return False
@@ -89,11 +89,11 @@ def generar_lista():
                 
                 if es_canal_valido(info):
                     parts = info.split(',')
-                    raw_name = parts[-1] if len(parts) > 1 else "Canal Innombrado"
+                    raw_name = parts[-1] if len(parts) > 1 else "Canal"
                     id_canal = limpiar_nombre(raw_name)
                     
                     count = canales_agrupados.get(id_canal, 0)
-                    # Forzamos el máximo de 2 opciones por canal
+                    # Forzar el límite estricto de máximo 2 opciones por canal
                     if count < OPCIONES_POR_CANAL:
                         nuevo_nombre = f"{raw_name} [Opción {count + 1}]"
                         contenido_final.append(info.replace(raw_name, nuevo_nombre) + "\n")
