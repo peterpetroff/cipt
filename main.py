@@ -2,91 +2,106 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 import re
 
-# --- CONFIGURACIÓN ---
+# --- CONFIGURACIÓN DE FILTRADO ULTRA ESTRICTO ---
 ARCHIVO_FUENTES = "settings.log"
 SALIDA_M3U = "styles.m3u"
 TIMEOUT = 10 
-MAX_WORKERS = 15
-OPCIONES_POR_CANAL = 3  # <--- AQUÍ defines cuántas opciones quieres de cada canal
+MAX_WORKERS = 20
+OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal como solicitaste
 
-# Mantenemos las palabras clave para evitar que el archivo pese 1GB otra vez
-# --- CONFIGURACIÓN ACTUALIZADA ---
-PALABRAS_CLAVE = [
-    "ECUADOR", "COLOMBIA", "ESPAÑA", "ARGENTINA", 
-    "DEPORTES", "SPORTS", "ESPN", "WIN", "FOX", "DSPORTS", "DIRECTV", # Deportes
-    "24/7", "CONTINUO", "DIRECTO",                                   # Canales 24/7
-    "PPV", "EVENTOS", "UFC", "BOX", "WWE", "FIGHT", "PREMIUM",       # Eventos Especiales
-    "HBO", "STAR", "DISNEY", "NETFLIX", "CINEMA", "MOVISTAR"         # Cine y Series
+# 1. Categorías y marcas deportivas/plataformas específicas
+MARCAS_PERMITIDAS = [
+    "ESPN", "DIRECTV", "DSPORTS", "ZAPPING", "FOX", "FOX SPORTS", 
+    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO"
+]
+
+# 2. Canales infantiles y de entretenimiento general seleccionados
+ENTRETENIMIENTO_PERMITIDO = [
+    "CARTOON NETWORK", "CARTOON", "DISNEY", "NICKELODEON", # Infantil
+    "HBO", "WARNER", "TNT", "UNIVERSAL", "STAR CHANNEL", "AXN", "CINEMAX" # Entretenimiento/Películas en vivo
+]
+
+# 3. Filtro geográfico estricto para Ecuador (buscando calidad HD)
+PALABRAS_ECUADOR = ["ECUADOR", "EC", "TELEAMAZONAS", "ECUAVISA", "TC TELEVISION", "RTS", "EL CANAL DEL FUTBOL", "ECDF"]
+
+# Bloqueo absoluto de bibliotecas VOD (Series y Películas que no son canales en vivo)
+PALABRAS_PROHIBIDAS = [
+    "VOD", "PELICULA:", "MOVIE:", "SERIE:", "EPISODIO", "SEASON", "CAPITULO", 
+    "TEMPORADA", "ADULTO", "XXX", "ANIME", "NOVELA"
 ]
 
 def verificar_y_descargar(url):
     headers = {'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'}
-    url = url.strip()
-    if not url: return None
     try:
-        with requests.get(url, headers=headers, timeout=TIMEOUT, stream=True) as r:
-            if r.status_code == 200:
-                print(f"✅ VIVA: {url[:50]}...")
-                return r.text
-    except Exception: pass
+        with requests.get(url.strip(), headers=headers, timeout=TIMEOUT, stream=True) as r:
+            if r.status_code == 200: return r.text
+    except: pass
     return None
 
 def limpiar_nombre(nombre):
-    """Limpia el nombre del canal para agruparlo mejor (quita HD, FHD, etc)"""
     nombre = nombre.upper()
-    nombre = re.sub(r'\[.*?\]|\(.*?\)', '', nombre) # Quita lo que esté en corchetes o paréntesis
-    nombre = nombre.replace("HD", "").replace("FHD", "").replace("4K", "").replace("SD", "")
-    return nombre.strip()
+    nombre = re.sub(r'\[.*?\]|\(.*?\)', '', nombre)
+    return nombre.replace("HD", "").replace("FHD", "").replace("4K", "").strip()
+
+def es_canal_valido(info_line):
+    info_upper = info_line.upper()
+    
+    # Si detecta que es una película/serie de catálogo (VOD), queda descartada inmediatamente
+    if any(p in info_upper for p in PALABRAS_PROHIBIDAS):
+        return False
+
+    # Validación de Marcas Deportivas / Zapping / FOX
+    if any(m in info_upper for m in MARCAS_PERMITIDAS):
+        return True
+
+    # Validación de Canales de Entretenimiento específicos (fijados a ~5 marcas de películas/series en vivo + Cartoon)
+    if any(e in info_upper for e in ENTRETENIMIENTO_PERMITIDO):
+        return True
+
+    # Validación estricta para Ecuador: Debe tener la marca de Ecuador y preferiblemente ser HD
+    if any(ec in info_upper for ec in PALABRAS_ECUADOR):
+        # Prioriza que contenga la palabra HD para asegurar la calidad que buscas
+        if "HD" in info_upper or "FHD" in info_upper:
+            return True
+        # Si es un canal clave local, dejarlo pasar de todas formas
+        if any(local in info_upper for local in ["TELEAMAZONAS", "ECUAVISA", "TC TELEVISION", "ECDF"]):
+            return True
+
+    return False
 
 def generar_lista():
-    try:
-        with open(ARCHIVO_FUENTES, "r") as f:
-            urls = [line.strip() for line in f if line.strip()]
-    except FileNotFoundError: return
+    with open(ARCHIVO_FUENTES, "r") as f:
+        urls = [line.strip() for line in f if line.strip()]
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         resultados = list(executor.map(verificar_y_descargar, urls))
 
-    canales_agrupados = {} # Diccionario para llevar la cuenta: { 'NOMBRE_CANAL': contador }
+    canales_agrupados = {}
     contenido_final = ["#EXTM3U\n"]
-    total_canales = 0
 
     for contenido in resultados:
         if not contenido: continue
-        
         lineas = contenido.splitlines()
         for i in range(len(lineas)):
             if lineas[i].startswith("#EXTINF"):
-                info_line = lineas[i]
-                url_line = lineas[i+1] if (i+1) < len(lineas) else ""
+                info = lineas[i]
+                url = lineas[i+1] if (i+1) < len(lineas) else ""
                 
-                # Extraer nombre del canal (lo que va después de la última coma)
-                parts = info_line.split(',')
-                raw_name = parts[-1] if len(parts) > 1 else "Canal Desconocido"
-                nombre_id = limpiar_nombre(raw_name)
-
-                # Filtro de palabras clave
-                if any(p.upper() in info_line.upper() for p in PALABRAS_CLAVE):
-                    # Lógica de redundancia: ¿Ya tenemos suficientes opciones de este canal?
-                    count = canales_agrupados.get(nombre_id, 0)
+                if es_canal_valido(info):
+                    parts = info.split(',')
+                    raw_name = parts[-1] if len(parts) > 1 else "Canal Innombrado"
+                    id_canal = limpiar_nombre(raw_name)
                     
+                    count = canales_agrupados.get(id_canal, 0)
+                    # Forzamos el máximo de 2 opciones por canal
                     if count < OPCIONES_POR_CANAL:
-                        # Modificamos el nombre para que en tu TV veas "Canal (Opción 1)"
                         nuevo_nombre = f"{raw_name} [Opción {count + 1}]"
-                        nueva_info = info_line.replace(raw_name, nuevo_nombre)
-                        
-                        contenido_final.append(nueva_info + "\n")
-                        contenido_final.append(url_line + "\n")
-                        
-                        canales_agrupados[nombre_id] = count + 1
-                        total_canales += 1
+                        contenido_final.append(info.replace(raw_name, nuevo_nombre) + "\n")
+                        contenido_final.append(url + "\n")
+                        canales_agrupados[id_canal] = count + 1
 
     with open(SALIDA_M3U, "w", encoding="utf-8") as f:
         f.writelines(contenido_final)
-    
-    print(f"\n--- PROCESO TERMINADO ---")
-    print(f"Canales únicos encontrados: {len(canales_agrupados)}")
-    print(f"Total de enlaces guardados (con redundancia): {total_canales}")
 
 if __name__ == "__main__":
     generar_lista()
