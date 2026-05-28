@@ -12,7 +12,7 @@ OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal
 # 1. Categorías y marcas deportivas/plataformas específicas solicitadas
 MARCAS_PERMITIDAS = [
     "ESPN", "DIRECTV", "DSPORTS", "ZAPPING", "FOX", "FOX SPORTS", 
-    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO"
+    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO", "F1", "FÓRMULA 1"
 ]
 
 # 2. Canales infantiles y entretenimiento general en vivo seleccionados (Máximo ~5 marcas de películas/series)
