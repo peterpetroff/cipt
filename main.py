@@ -12,7 +12,7 @@ OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal
 # 1. Categorías y marcas deportivas/plataformas específicas solicitadas
 MARCAS_PERMITIDAS = [
     "ESPN", "DIRECTV", "DSPORTS", "ZAPPING", "FOX", "FOX SPORTS", 
-    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO", "F1", "FÓRMULA 1"
+    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO", "F1", "FÓRMULA 1", "MUNDIAL", "FIFA", "DGO", "DIRECTV"
 ]
 
 # 2. Canales infantiles y entretenimiento general en vivo seleccionados (Máximo ~5 marcas de películas/series)
@@ -27,7 +27,7 @@ PALABRAS_ECUADOR = ["ECUADOR", "EC", "TELEAMAZONAS", "ECUAVISA", "TC TELEVISION"
 # Bloqueo absoluto de bibliotecas de series y películas bajo demanda (Catálogo VOD)
 PALABRAS_PROHIBIDAS = [
     "VOD", "PELICULA:", "MOVIE:", "SERIE:", "EPISODIO", "SEASON", "CAPITULO", 
-    "TEMPORADA", "ADULTO", "XXX", "ANIME", "NOVELA"
+    "TEMPORADA", "ADULTO", "XXX", "ANIME", "NOVELA", 24/7
 ]
 
 def verificar_y_descargar(url):
