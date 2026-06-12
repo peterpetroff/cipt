@@ -12,7 +12,7 @@ OPCIONES_POR_CANAL = 2  # Máximo 2 opciones por canal
 # Categorías y marcas permitidas (Canales en vivo únicamente)
 MARCAS_PERMITIDAS = [
     "ESPN", "DIRECTV", "DSPORTS", "ZAPPING", "FOX", "FOX SPORTS", 
-    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO"
+    "FUTBOL", "CHAMPIONS", "LIBERTADORES", "LIGA PRO", "MUNDIAL", "WIN", "WIN SPORTS", "PARAMOUNT", "FIFA 2026"
 ]
 
 ENTRETENIMIENTO_PERMITIDO = [
