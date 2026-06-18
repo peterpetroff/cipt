@@ -5185,9 +5185,9 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/525759.mp4
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/525996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PROYECTO FIN DEL MUNDO [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e832ff45986f65cdca32a1bef426d7ae.jpg" group-title="⭐️ Estrenos 2026 ⭐️",PROYECTO FIN DEL MUNDO [Opción 1]
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/526000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 ⭐️",SEÑAL EXCLUSIVA [Opción 1]
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/526169
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 ⭐️",SEÑAL EXCLUSIVA [Opción 2]
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/526170
 #EXTINF:-1 tvg-id="" tvg-name="EL TESTIMONIO DE ANNE LEE [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fefa5c6d2b4f71838fee6ec3cb553f28.jpg" group-title="⭐️Películas 2025 ",EL TESTIMONIO DE ANNE LEE [Opción 1]
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/527225.mp4
@@ -29303,6 +29303,8 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533110.mp4
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BANSHEE S03 E09 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e871ec1ff54459dec109992e143ae6ae.jpg" group-title="⭐️ Series Amazon ",BANSHEE S03 E09 [Opción 1]
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA MALDICIÓN DE WIDOW'S BAY S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/058a54e57b2dc8ca68dc844fbecc0762.jpg" group-title="⭐️ Series Apple TV",LA MALDICIÓN DE WIDOW'S BAY S01 E01 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="| GOL TV [Opción 2]" tvg-logo="http://redworld.pro:8880/images/32b93d81e997e0e62abb75018e5a83c6.png" group-title="⭐️ Deporte Ecuador",| GOL TV [Opción 2]
 http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/104112
 #EXTINF:-1 tvg-id="" tvg-name="RADIO ARAUCANA [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/28549c31aec3e6498877bf73a10e53f4.png" group-title="⭐️ RADIOS CHILE",RADIO ARAUCANA [Opción 2]
@@ -56623,6 +56625,8 @@ http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533110.mp4
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BANSHEE S03 E09 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e871ec1ff54459dec109992e143ae6ae.jpg" group-title="⭐️ Series Amazon ",BANSHEE S03 E09 [Opción 2]
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA MALDICIÓN DE WIDOW'S BAY S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/058a54e57b2dc8ca68dc844fbecc0762.jpg" group-title="⭐️ Series Apple TV",LA MALDICIÓN DE WIDOW'S BAY S01 E01 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AMMONITE [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f15241ccfec2b6e9f709f5f66f410153.jpg" group-title="⭐️Películas LGBT",AMMONITE [Opción 2]
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/271813.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CAT SKIN [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d23718b245842245ecc58311af8cf51e.jpg" group-title="⭐️Películas LGBT",CAT SKIN [Opción 2]
