@@ -4967,14 +4967,6 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/457593.mp4
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/457792.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PAW PATROL ESPECIAL DE NAVIDAD [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fcaabb45b704018d5a194ed0918769a9.jpg" group-title="⭐️Navidad 2025",PAW PATROL ESPECIAL DE NAVIDAD [Opción 1]
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/457868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 1 [Opción 1]
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/457889
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 2 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 2 [Opción 1]
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/457890
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 3 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 3 [Opción 1]
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/457891
-#EXTINF:-1 tvg-id="" tvg-name="GT | TRECEVISION [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3698befddd39a20b9589eacf3e1380e0.png" group-title="⭐️ Guatemala",GT | TRECEVISION [Opción 1]
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/457903
 #EXTINF:-1 tvg-id="" tvg-name="UNA CASA DE LOCOS EN NAVIDAD: ¿HAS SIDO BUENO? [Opción 1]" tvg-logo="http://redworld.pro:8880/images/394a6de29400afbeece9a25bd1b2eed9.jpg" group-title="⭐️Navidad 2025",UNA CASA DE LOCOS EN NAVIDAD: ¿HAS SIDO BUENO? [Opción 1]
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/458263.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SONG SUNG BLUE: SUEÑO INQUEBRANTABLE [Opción 1]" tvg-logo="http://redworld.pro:8880/images/f4f8b4e3cf9ecf1ffc900abca21a3bc9.jpg" group-title="⭐️Películas 2025 ",SONG SUNG BLUE: SUEÑO INQUEBRANTABLE [Opción 1]
@@ -5209,6 +5201,8 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/533289.mp4
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/533340.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THE MANDALORIAN AND GROGU [Opción 1]" tvg-logo="http://redworld.pro:8880/images/665d3b6670fe1a8a043964b2287cece8.jpg" group-title="⭐️ Estrenos 2026 ⭐️",THE MANDALORIAN AND GROGU [Opción 1]
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/533341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUA | AZTECA GUATE [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="⭐️ Guatemala",GUA | AZTECA GUATE [Opción 1]
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533359
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AFTERMATH S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d7f7e4fa8429860ecaad048a788c5306.jpg" group-title="⭐️ Series Ciencia Ficción",AFTERMATH S01 E02 [Opción 1]
@@ -20299,6 +20293,24 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/500921.mkv
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/500922.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S01 E10 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d33ceaaa307b5660668bb4059f4cd199.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S01 E10 [Opción 1]
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/500923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/f98bc6c0273adc7d8a56c2091ea27544.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E01 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ef6505fb970cc77efd955cf59a46a261.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E02 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/f35aad45a557a3654619b7d099f4c8bd.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E03 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8e969cf318ee4f3967cc82ccd4eb9ad6.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E04 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/34f9932f2f17ac53376df9efeca72e5d.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E05 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/aeb0c9dbea873c0383569207ebd1a8d5.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E06 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E07 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/a2482d68f69bed1732ab6a2c33ef9889.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E07 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E08 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd60ea68bc6ed2db0ad2545a5c1962ba.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E08 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S03 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/5fe301f435be84585719b322c7154d73.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S03 E01 [Opción 1]
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/533353.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA CIUDAD ES NUESTRA S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d91803d67193fdf9ab54d1fed571d95f.jpg" group-title="⭐️ Series HBO ",LA CIUDAD ES NUESTRA S01 E01 [Opción 1]
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/500848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA CIUDAD ES NUESTRA S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/44a321584f9df7c9f8292c73d2cb991b.jpg" group-title="⭐️ Series HBO ",LA CIUDAD ES NUESTRA S01 E02 [Opción 1]
@@ -32529,14 +32541,6 @@ http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/457593.mp4
 http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/457792.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PAW PATROL ESPECIAL DE NAVIDAD [Opción 2]" tvg-logo="http://redworld.pro:8880/images/fcaabb45b704018d5a194ed0918769a9.jpg" group-title="⭐️Navidad 2025",PAW PATROL ESPECIAL DE NAVIDAD [Opción 2]
 http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/457868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 1 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 1 [Opción 2]
-http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/457889
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 2 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 2 [Opción 2]
-http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/457890
-#EXTINF:-1 tvg-id="" tvg-name="GT | AZTECA # 3 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="⭐️ Guatemala",GT | AZTECA # 3 [Opción 2]
-http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/457891
-#EXTINF:-1 tvg-id="" tvg-name="GT | TRECEVISION [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3698befddd39a20b9589eacf3e1380e0.png" group-title="⭐️ Guatemala",GT | TRECEVISION [Opción 2]
-http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/457903
 #EXTINF:-1 tvg-id="" tvg-name="UNA CASA DE LOCOS EN NAVIDAD: ¿HAS SIDO BUENO? [Opción 2]" tvg-logo="http://redworld.pro:8880/images/394a6de29400afbeece9a25bd1b2eed9.jpg" group-title="⭐️Navidad 2025",UNA CASA DE LOCOS EN NAVIDAD: ¿HAS SIDO BUENO? [Opción 2]
 http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/458263.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SONG SUNG BLUE: SUEÑO INQUEBRANTABLE [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f4f8b4e3cf9ecf1ffc900abca21a3bc9.jpg" group-title="⭐️Películas 2025 ",SONG SUNG BLUE: SUEÑO INQUEBRANTABLE [Opción 2]
@@ -32735,6 +32739,8 @@ http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/533289.mp4
 http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/533340.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THE MANDALORIAN AND GROGU [Opción 2]" tvg-logo="http://redworld.pro:8880/images/665d3b6670fe1a8a043964b2287cece8.jpg" group-title="⭐️ Estrenos 2026 ⭐️",THE MANDALORIAN AND GROGU [Opción 2]
 http://starlatino.tv:8880/movie/Sheylla234/mxn7kPgtdKnK/533341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUA | AZTECA GUATE [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="⭐️ Guatemala",GUA | AZTECA GUATE [Opción 2]
+http://starlatino.tv:8880/Sheylla234/mxn7kPgtdKnK/533359
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/461565.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AFTERMATH S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d7f7e4fa8429860ecaad048a788c5306.jpg" group-title="⭐️ Series Ciencia Ficción",AFTERMATH S01 E02 [Opción 2]
@@ -47705,6 +47711,24 @@ http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/500921.mkv
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/500922.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S01 E10 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d33ceaaa307b5660668bb4059f4cd199.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S01 E10 [Opción 2]
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/500923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f98bc6c0273adc7d8a56c2091ea27544.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E01 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ef6505fb970cc77efd955cf59a46a261.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E02 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f35aad45a557a3654619b7d099f4c8bd.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E03 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8e969cf318ee4f3967cc82ccd4eb9ad6.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E04 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/34f9932f2f17ac53376df9efeca72e5d.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E05 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/aeb0c9dbea873c0383569207ebd1a8d5.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E06 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E07 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/a2482d68f69bed1732ab6a2c33ef9889.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E07 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S02 E08 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd60ea68bc6ed2db0ad2545a5c1962ba.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S02 E08 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S03 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/5fe301f435be84585719b322c7154d73.jpg" group-title="⭐️ Series HBO ",LA CASA DEL DRAGÓN S03 E01 [Opción 2]
+http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/533353.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA CIUDAD ES NUESTRA S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d91803d67193fdf9ab54d1fed571d95f.jpg" group-title="⭐️ Series HBO ",LA CIUDAD ES NUESTRA S01 E01 [Opción 2]
 http://starlatino.tv:8880/series/Sheylla234/mxn7kPgtdKnK/500848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA CIUDAD ES NUESTRA S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/44a321584f9df7c9f8292c73d2cb991b.jpg" group-title="⭐️ Series HBO ",LA CIUDAD ES NUESTRA S01 E02 [Opción 2]
