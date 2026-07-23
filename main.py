@@ -111,8 +111,11 @@ def generar_lista():
                             # Reemplazamos el nombre viejo por el unificado en la línea #EXTINF
                             info_limpia = info.replace(raw_name, nuevo_nombre)
                             
+                            # Inyección de User-Agent para evitar cortes a los 3 segundos
                             contenido_final.append(info_limpia + "\n")
+                            contenido_final.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n")
                             contenido_final.append(url + "\n")
+                            
                             canales_agrupados[id_canal] = count + 1
         except:
             continue
