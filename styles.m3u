@@ -23,9 +23,6 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/166729
 #EXTINF:-1 tvg-id="" tvg-name="RADIO DISNEY [Opción 1]" tvg-logo="http://redworld.pro:8880/images/b9aaecec2830bb5899405b7b47554efc.png" group-title="⭐️ RADIOS CHILE",RADIO DISNEY [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/166733
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MAXIMA CUMBIA [Opción 1]" tvg-logo="http://goldfull.pro:8880/images/9ec924518d61ca3d908fb55d94fbbb37.jpg" group-title="⭐️ RADIOS CHILE",RADIO MAXIMA CUMBIA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/166739
 #EXTINF:-1 tvg-id="" tvg-name="RADIO FM DE LOS RECUERDOS [Opción 1]" tvg-logo="http://goldfull.pro:8880/images/357de3102bd83b04d102deb0546597e9.png" group-title="⭐️ RADIOS CHILE",RADIO FM DE LOS RECUERDOS [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/166761
@@ -71,7 +68,7 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VCLASSICTV TROPICAL [Opción 1]" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VCLASSICTV TROPICAL [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/257513
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RECUERDOS RETRO [Opción 1]" tvg-logo="https://lh3.googleusercontent.com/pw/AMWts8ALX-anfKmkRmRYjperQs12iZlAObgfBwxVBdj0Icbi-izQkGTzifXXHFSrdwQbinB10ukgjCuRkCxJpdGngnan_0X2wCK-Dw3gYQG67VQ40h15zabsUCbAH0SPlbzBDqPpCdMuvIMmkQ2LjR7P0w9-=w1200-h800-no?authuser=0" group-title="⭐️ RADIOS CHILE",RADIO RECUERDOS RETRO [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RECUERDOS RETRO [Opción 1]" tvg-logo="http://redworld.pro:8880/images/0cd7038d8fce9a38322be27f7cc061a9.png" group-title="⭐️ RADIOS CHILE",RADIO RECUERDOS RETRO [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/257923
 #EXTINF:-1 tvg-id="rec.cl" tvg-name="CL | RTV [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c7fab201cc79e05ba757db86ac49923a.png" group-title="⭐️ CHILE  ",CL | RTV [Opción 1]
@@ -42323,9 +42320,6 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166729
 #EXTINF:-1 tvg-id="" tvg-name="RADIO DISNEY [Opción 2]" tvg-logo="http://redworld.pro:8880/images/b9aaecec2830bb5899405b7b47554efc.png" group-title="⭐️ RADIOS CHILE",RADIO DISNEY [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166733
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MAXIMA CUMBIA [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/9ec924518d61ca3d908fb55d94fbbb37.jpg" group-title="⭐️ RADIOS CHILE",RADIO MAXIMA CUMBIA [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166739
 #EXTINF:-1 tvg-id="" tvg-name="RADIO FM DE LOS RECUERDOS [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/357de3102bd83b04d102deb0546597e9.png" group-title="⭐️ RADIOS CHILE",RADIO FM DE LOS RECUERDOS [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166761
@@ -42371,7 +42365,7 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/252151
 #EXTINF:-1 tvg-id="" tvg-name="VCLASSICTV TROPICAL [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VCLASSICTV TROPICAL [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/257513
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RECUERDOS RETRO [Opción 2]" tvg-logo="https://lh3.googleusercontent.com/pw/AMWts8ALX-anfKmkRmRYjperQs12iZlAObgfBwxVBdj0Icbi-izQkGTzifXXHFSrdwQbinB10ukgjCuRkCxJpdGngnan_0X2wCK-Dw3gYQG67VQ40h15zabsUCbAH0SPlbzBDqPpCdMuvIMmkQ2LjR7P0w9-=w1200-h800-no?authuser=0" group-title="⭐️ RADIOS CHILE",RADIO RECUERDOS RETRO [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RECUERDOS RETRO [Opción 2]" tvg-logo="http://redworld.pro:8880/images/0cd7038d8fce9a38322be27f7cc061a9.png" group-title="⭐️ RADIOS CHILE",RADIO RECUERDOS RETRO [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/257923
 #EXTINF:-1 tvg-id="rec.cl" tvg-name="CL | RTV [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c7fab201cc79e05ba757db86ac49923a.png" group-title="⭐️ CHILE  ",CL | RTV [Opción 2]
