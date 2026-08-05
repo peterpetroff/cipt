@@ -85781,9 +85781,6 @@ http://avefenixtv.com:8080/live/AdanMontes/11122023AM/487745.ts
 #EXTINF:-1 tvg-id="" tvg-name="HEICERA TV [Opción 1]" tvg-logo="https://pbs.twimg.com/profile_images/1378555781394620419/f_b0bKWF_400x400.jpg" group-title="PERU",HEICERA TV [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/487749.ts
-#EXTINF:-1 tvg-id="" tvg-name="IMPACTO TV [Opción 1]" tvg-logo="https://radioimpactodecajamarca.com.pe/wp-content/uploads/2022/12/header2-min.png" group-title="PERU",IMPACTO TV [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/live/AdanMontes/11122023AM/487751.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS FUTBOL HONDURAS 01 [Opción 1]" tvg-logo="https://hondurascdn.b-cdn.net/wp-content/uploads/2022/10/Logotipo-Vertical-con-Soporte.png" group-title="HONDURAS",EVENTOS FUTBOL HONDURAS 01 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/502429.ts
@@ -85916,6 +85913,9 @@ http://avefenixtv.com:8080/live/AdanMontes/11122023AM/693751.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUPER 5 GRECIA [Opción 1]" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/super_cable4.jpg?itok=nQi9LUQ7" group-title="COSTA RICA",SUPER 5 GRECIA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/697641.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOL TV [Opción 1]" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FSolTV.png&width=96&height=96" group-title="PERU",SOL TV [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/live/AdanMontes/11122023AM/715104.ts
 #EXTINF:-1 tvg-id="" tvg-name="I | T13 [Opción 1]" tvg-logo="https://i.postimg.cc/QdB9Q6tn/Logotipo-de-Teletrece-2019-2022.png" group-title="CHILE",I | T13 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/719956.ts
@@ -86039,6 +86039,9 @@ http://avefenixtv.com:8080/live/AdanMontes/11122023AM/765995.ts
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | COCINA [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | COCINA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/1191136.ts
+#EXTINF:-1 tvg-id="" tvg-name="FMH FAMILY [Opción 1]" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FFMH_FAMILY.png&width=96&height=96" group-title="PERU",FMH FAMILY [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/live/AdanMontes/11122023AM/1229295.ts
 #EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES [Opción 1]" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="ESPAÑA",M+ ORIGINALES [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/live/AdanMontes/11122023AM/414805.ts
@@ -98207,6 +98210,474 @@ http://avefenixtv.com:8080/movie/AdanMontes/11122023AM/1042394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL ACUSADO PERFECTO [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w500/sX4RMcIlxDTjkWaxA0eq22ip06t.jpg" group-title="CINE ACCION",EL ACUSADO PERFECTO [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/movie/AdanMontes/11122023AM/1041912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg" group-title="PARAMOUNT",LA AGENCIA S01E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg" group-title="PARAMOUNT",LA AGENCIA S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg" group-title="PARAMOUNT",LA AGENCIA S01E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF6BlJvV5gJHQiqzyVh4r5Bbka.jpg" group-title="PARAMOUNT",LA AGENCIA S01E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3nFQeSkeLrJvxzTmRokJ7Ou7ox.jpg" group-title="PARAMOUNT",LA AGENCIA S01E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDi01MIY7EEsDC3nkFWHTR9Gp6Q.jpg" group-title="PARAMOUNT",LA AGENCIA S01E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM6AWFvUwwh5nHnLFc9HrnRvh7V.jpg" group-title="PARAMOUNT",LA AGENCIA S01E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MYGWNp9fOAPkrVVutx1DazpOAJ.jpg" group-title="PARAMOUNT",LA AGENCIA S01E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H6iA76n8P5o5d46QHL6FpQIh9H.jpg" group-title="PARAMOUNT",LA AGENCIA S01E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S01E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vHF8JZMZBbi7QBzN10tRPhxINR.jpg" group-title="PARAMOUNT",LA AGENCIA S01E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97asrpUEmxwph2BCuMPLfa2b19D.jpg" group-title="PARAMOUNT",LA AGENCIA S02E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFRjT9ZC0kTvkXldio8a9Jvjo06.jpg" group-title="PARAMOUNT",LA AGENCIA S02E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejasXEaFT77PQuPRaHi0XAUgrpJ.jpg" group-title="PARAMOUNT",LA AGENCIA S02E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9evib4ebvZrRsczyp6vBLvTrBEn.jpg" group-title="PARAMOUNT",LA AGENCIA S02E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyTbnZlgbmprFjAu2MdvrPJklSE.jpg" group-title="PARAMOUNT",LA AGENCIA S02E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/521O3us7UZ1EATs8yFlXLEwaTfH.jpg" group-title="PARAMOUNT",LA AGENCIA S02E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MM6EZtdmB1ayOMeNk4gTrkH37k.jpg" group-title="PARAMOUNT",LA AGENCIA S02E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iXivrOqU6ipEL14gfTOEEZUaUH.jpg" group-title="PARAMOUNT",LA AGENCIA S02E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwgwtXAsnrrDPEWRJgMENfobU0i.jpg" group-title="PARAMOUNT",LA AGENCIA S02E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA AGENCIA S02E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ucsje4tXbQwswjXtPo1BlhQQ1t.jpg" group-title="PARAMOUNT",LA AGENCIA S02E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg" group-title="PARAMOUNT",SEAL TEAM S01E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHuIKwUmN4n9NJ4kUALiV8n5hBz.jpg" group-title="PARAMOUNT",SEAL TEAM S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avKmJd7EmTwR1HFPmacBjnI0R0q.jpg" group-title="PARAMOUNT",SEAL TEAM S01E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvQucdxtMM43bXMoGF6lPIBTKk2.jpg" group-title="PARAMOUNT",SEAL TEAM S01E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM8oIKiooFsNNXdgLtrLH5fT6Gw.jpg" group-title="PARAMOUNT",SEAL TEAM S01E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frNXhRhluriWb4DwqEELvCBhSTX.jpg" group-title="PARAMOUNT",SEAL TEAM S01E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSFjp2yg87COrldWPQLYcsMpK8W.jpg" group-title="PARAMOUNT",SEAL TEAM S01E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuJ8txqqz5WvNvVxDf0Z8kkhQUz.jpg" group-title="PARAMOUNT",SEAL TEAM S01E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS1Zm58e0JR1Fn74MUhzRVjPmRz.jpg" group-title="PARAMOUNT",SEAL TEAM S01E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kC4UsSew1ZLBLeiOiFIu2P4XiMM.jpg" group-title="PARAMOUNT",SEAL TEAM S01E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfewmvVFSXo7fCp2cAdk3iM0Kbj.jpg" group-title="PARAMOUNT",SEAL TEAM S01E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnLF3wzP8zwPkv0Urr5U5Q7zdCn.jpg" group-title="PARAMOUNT",SEAL TEAM S01E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LqmXQRon5bc8gpihaxRP9fHkU3.jpg" group-title="PARAMOUNT",SEAL TEAM S01E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hP09IthUw0muTPozGJ1kyCfZVti.jpg" group-title="PARAMOUNT",SEAL TEAM S01E14 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyFz2xW8jytgIljzP2f1I3w2xqG.jpg" group-title="PARAMOUNT",SEAL TEAM S01E15 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAHiUuKGYAM3icNIaPHu0hChdmw.jpg" group-title="PARAMOUNT",SEAL TEAM S01E16 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aY9tl9YaEGLOEgZ8BUnQswm5FUO.jpg" group-title="PARAMOUNT",SEAL TEAM S01E17 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDpi7UKywpthYufil7fLBUESxr3.jpg" group-title="PARAMOUNT",SEAL TEAM S01E18 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tklBavuCBOAARtb4eYOJ36h11cc.jpg" group-title="PARAMOUNT",SEAL TEAM S01E19 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uFqREX1qDn8f7Iz0AED3326eLa.jpg" group-title="PARAMOUNT",SEAL TEAM S01E20 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E21 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXSBJjktMtzVYas2SqDhT7dnsw.jpg" group-title="PARAMOUNT",SEAL TEAM S01E21 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E22 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DUIBTEaLQqpQ9lxOyJp1ILsrAS.jpg" group-title="PARAMOUNT",SEAL TEAM S01E22 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnGvxBkUFzwuZgHcdcZTqAygNw.jpg" group-title="PARAMOUNT",SEAL TEAM S02E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qffeVl5PvWkmOje80IeS4B4RyN.jpg" group-title="PARAMOUNT",SEAL TEAM S02E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN7q7Dlc5ZQFWhyJufMP9dg7zut.jpg" group-title="PARAMOUNT",SEAL TEAM S02E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcOeOHSRURsA54iuWVFiSKDoEL9.jpg" group-title="PARAMOUNT",SEAL TEAM S02E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juGpAzXsi9iQ8pYH7vL67iFRoFt.jpg" group-title="PARAMOUNT",SEAL TEAM S02E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFTULr60Yg4MdXq6I7dToLRNqV2.jpg" group-title="PARAMOUNT",SEAL TEAM S02E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvgh3i5dkybPE5NaNR7laQy32jt.jpg" group-title="PARAMOUNT",SEAL TEAM S02E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VMgYrPkQ67674uK0TOFS6Q42fX.jpg" group-title="PARAMOUNT",SEAL TEAM S02E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9vX8jh1Sc7SKrEMDPGqGqwNwaa.jpg" group-title="PARAMOUNT",SEAL TEAM S02E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5oRUlIvuGgzVJQVOwKeb31Sp2P.jpg" group-title="PARAMOUNT",SEAL TEAM S02E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFkxstpz3d0vIs0ByZaMQCi0oOA.jpg" group-title="PARAMOUNT",SEAL TEAM S02E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdgsPwK1Pbznuun9SF83oLc26GF.jpg" group-title="PARAMOUNT",SEAL TEAM S02E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HPvbTLt89o2G4qpzKRCAf8lWKs.jpg" group-title="PARAMOUNT",SEAL TEAM S02E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZurmjIAnWu3ItZNzbfObXC0Bc4.jpg" group-title="PARAMOUNT",SEAL TEAM S02E14 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inZQUTcZW4UDVPpjV5e90mFD42Q.jpg" group-title="PARAMOUNT",SEAL TEAM S02E15 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elrfuSwHZ5GP0QCQdhRd0zWUQOy.jpg" group-title="PARAMOUNT",SEAL TEAM S02E16 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJm9c1kNy2K9RCN2XB7OuNabDzf.jpg" group-title="PARAMOUNT",SEAL TEAM S02E17 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGf5WZi8TqGCo7FyEUrHTipKf0z.jpg" group-title="PARAMOUNT",SEAL TEAM S02E18 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz72XuD8OhQh6JmC26V7nlgp4bI.jpg" group-title="PARAMOUNT",SEAL TEAM S02E19 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKeJ8892hBaZGCOpexfpY3sqJdn.jpg" group-title="PARAMOUNT",SEAL TEAM S02E20 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E21 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnjloAUqDQm23vMipEpZ8YVEBBW.jpg" group-title="PARAMOUNT",SEAL TEAM S02E21 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E22 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqaqg7UHPaVdSC4GdAKEb0FBNgl.jpg" group-title="PARAMOUNT",SEAL TEAM S02E22 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJ1LH003APwHgdhJiyd0qWG4WW.jpg" group-title="PARAMOUNT",SEAL TEAM S03E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48AeqqXbot0SDN5yZ7nw9Mz8Qfc.jpg" group-title="PARAMOUNT",SEAL TEAM S03E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fepttTdsPa46xrUnYODetecPg8.jpg" group-title="PARAMOUNT",SEAL TEAM S03E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plFZXPm0v5e4EVCA1KO9hoGlk3V.jpg" group-title="PARAMOUNT",SEAL TEAM S03E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDZEKv9tGDa2G33U8tMHq9Qzpvc.jpg" group-title="PARAMOUNT",SEAL TEAM S03E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YU7B72pm355P86bAmemx28u3xR.jpg" group-title="PARAMOUNT",SEAL TEAM S03E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gpLUxkDYuz7JH2GpuQoRG9K8qH.jpg" group-title="PARAMOUNT",SEAL TEAM S03E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40rr6IlL1Ry5nOIHuFDlTe60ARP.jpg" group-title="PARAMOUNT",SEAL TEAM S03E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh6JGpuyT3135nJkVEo9s5BKWEA.jpg" group-title="PARAMOUNT",SEAL TEAM S03E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjALfOFeH4xEC2KYzPdIabZniV0.jpg" group-title="PARAMOUNT",SEAL TEAM S03E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zopMDLdygUcu0a2HgBhwmKKBU66.jpg" group-title="PARAMOUNT",SEAL TEAM S03E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdU449LFodpUfjqJvN6UQCK38Me.jpg" group-title="PARAMOUNT",SEAL TEAM S03E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW4S0bVQPNX6vXqWgcjNgQbSRmf.jpg" group-title="PARAMOUNT",SEAL TEAM S03E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swXLbnD4rnOGEOqatpaV6tl9n26.jpg" group-title="PARAMOUNT",SEAL TEAM S03E14 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/am87EoBevYOeEkal6mFwKSVEYAQ.jpg" group-title="PARAMOUNT",SEAL TEAM S03E15 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G87yUclTDStX3ewxQbI9g7j7LP.jpg" group-title="PARAMOUNT",SEAL TEAM S03E16 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aypBSGW1b33zbBgz9vNMurE14Xe.jpg" group-title="PARAMOUNT",SEAL TEAM S03E17 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rI9Noqnzo0BvrkYXZqqueS9xW6.jpg" group-title="PARAMOUNT",SEAL TEAM S03E18 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bFmjQ71o1iPRnx3NzGXqooMQqj.jpg" group-title="PARAMOUNT",SEAL TEAM S03E19 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="PARAMOUNT",SEAL TEAM S03E20 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8raKTaiYxk9440Q1y0HQ3YV8ZY.jpg" group-title="PARAMOUNT",SEAL TEAM S04E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="PARAMOUNT",SEAL TEAM S04E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjhXsGCViCoxaaQG642iK39s0GU.jpg" group-title="PARAMOUNT",SEAL TEAM S04E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T9ETRkvlOAAM5NemTAi0rqSKQF.jpg" group-title="PARAMOUNT",SEAL TEAM S04E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgvFGel51IHQXvJtUWdD0H5Lys.jpg" group-title="PARAMOUNT",SEAL TEAM S04E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWpOckG7uOB9FAkCrzsnVz6v9BC.jpg" group-title="PARAMOUNT",SEAL TEAM S04E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1q2uYmRs4uNClQVgNUuYNAQFJij.jpg" group-title="PARAMOUNT",SEAL TEAM S04E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqlljqhaJY0MAeltc46jSP91sb3.jpg" group-title="PARAMOUNT",SEAL TEAM S04E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPOCJj9G8u3KZuO379esXZjqfa.jpg" group-title="PARAMOUNT",SEAL TEAM S04E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJ1SV4lmJqfFNXjKukFnrMN2293.jpg" group-title="PARAMOUNT",SEAL TEAM S04E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iOayZTaPT0Fe33d5E4e4JBaWJ2.jpg" group-title="PARAMOUNT",SEAL TEAM S04E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cczfCQVLcVoLBY4x8vEFACXRq5l.jpg" group-title="PARAMOUNT",SEAL TEAM S04E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AeNRE9Ro7cjklpt9Pi2Vxmrfsh.jpg" group-title="PARAMOUNT",SEAL TEAM S04E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aje0XBbzJeZEu72Gwqekh0BUkj.jpg" group-title="PARAMOUNT",SEAL TEAM S04E14 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHjTGksfRHTh35cWIfKSEIYoCLq.jpg" group-title="PARAMOUNT",SEAL TEAM S04E15 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i55tbRvjzQ75SIwl7XHUmZpEKVc.jpg" group-title="PARAMOUNT",SEAL TEAM S04E16 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSBn3SLDN8TykDjW1eC9Zo2TlPN.jpg" group-title="PARAMOUNT",SEAL TEAM S05E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YCxUPP6v4sfE7iYxMb0P1SATAb.jpg" group-title="PARAMOUNT",SEAL TEAM S05E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkCrp08p1NJDBHXyYr7iagD33yz.jpg" group-title="PARAMOUNT",SEAL TEAM S05E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vfpa0JGTMxWAiYKUttuuIkCQOj.jpg" group-title="PARAMOUNT",SEAL TEAM S05E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMTT2b3SN2CsVoX33jhpQf6g8M4.jpg" group-title="PARAMOUNT",SEAL TEAM S05E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kYpG5Qr1j8fdR9NufTJgK1eUBl.jpg" group-title="PARAMOUNT",SEAL TEAM S05E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le6P7L2fP73StFu4Edie82LAIt8.jpg" group-title="PARAMOUNT",SEAL TEAM S05E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woH8Gdrt4C8jVLEDQN4YRdRluxu.jpg" group-title="PARAMOUNT",SEAL TEAM S05E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0AJGrq0SLBPTF24U08GJF9Psv4.jpg" group-title="PARAMOUNT",SEAL TEAM S05E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7l25s5DcM7GtTHDd2bq0cWTVUL.jpg" group-title="PARAMOUNT",SEAL TEAM S05E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD8I5AQozkV3dQ08Dl8NYrA83fA.jpg" group-title="PARAMOUNT",SEAL TEAM S05E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2a7SBWvkYPx9RiLwnkGZJnkmEV.jpg" group-title="PARAMOUNT",SEAL TEAM S05E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9NjjbBmpPezMR2umazflVa0MkL.jpg" group-title="PARAMOUNT",SEAL TEAM S05E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBFAkR4Be3aEvxYJ06aXmEoSPAO.jpg" group-title="PARAMOUNT",SEAL TEAM S05E14 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkPXP9RZ3vjhBquR8BWk2kyx7oU.jpg" group-title="PARAMOUNT",SEAL TEAM S06E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psU0I83qjQiU5ycdAkOecPSunvU.jpg" group-title="PARAMOUNT",SEAL TEAM S06E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEvEA06aJj7sVwieNZ3H30CfYYT.jpg" group-title="PARAMOUNT",SEAL TEAM S06E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqkANr0dGFY8WCTVOBcMHlNlhqQ.jpg" group-title="PARAMOUNT",SEAL TEAM S06E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1ftQsd3IWy2sUZxLNTl1T2uD1s.jpg" group-title="PARAMOUNT",SEAL TEAM S06E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY0lpBX71PBS4dg1zGPdKyBnCTs.jpg" group-title="PARAMOUNT",SEAL TEAM S06E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjtRer9NCxLgFULcm60BlqpJba.jpg" group-title="PARAMOUNT",SEAL TEAM S06E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ElEvexKePBd7TLyHDzJopRBlx9.jpg" group-title="PARAMOUNT",SEAL TEAM S06E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oMeNZ3JzRUmQJUv8DuC56CVIK8.jpg" group-title="PARAMOUNT",SEAL TEAM S06E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ji7B6YxfISITUtwUR0ydfD5FFS.jpg" group-title="PARAMOUNT",SEAL TEAM S06E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SALVADOR S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JFJ1CwhEitxechszBwsmN6P6mi.jpg" group-title="NETFLIX",SALVADOR S01E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TE ENCONTRARÉ S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OEIZuhL8FaZVsRN4BG0Iz3rECO.jpg" group-title="NETFLIX",TE ENCONTRARÉ S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA HUÉSPED S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKlMFoOsiHgLQAtdiziEci4LI3U.jpg" group-title="NETFLIX",LA HUÉSPED S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salcedo,CUERO Y BOOGALOO S01E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKAuzY36r4PV7kSZeck2puAX2Zn.jpg" group-title="NETFLIX",Salcedo,CUERO Y BOOGALOO S01E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya antes del desastre,CON TOM HIDDLESTON S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJwfl2r5k9jCkgMjQhAYryzn6y2.jpg" group-title="DISNEY+",Pompeya antes del desastre,CON TOM HIDDLESTON S01E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya antes del desastre,CON TOM HIDDLESTON S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQVJWMvZPHxtx6GTGl06eMJLDHE.jpg" group-title="DISNEY+",Pompeya antes del desastre,CON TOM HIDDLESTON S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya antes del desastre,CON TOM HIDDLESTON S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evfBSnahESyTiaZfFGC4CW4owPf.jpg" group-title="DISNEY+",Pompeya antes del desastre,CON TOM HIDDLESTON S01E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOOVAVvqRa2sdxVe7WaCIZBmu6C.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yvbnEIlgCGBVlT4Ld3EBioZHcG.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpAHl9hcZrzGhnRguK0eikCqU58.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66cNJfvSig1aii9yJ7T9LCDAup.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CPVo0zn14uZjeQhL4eVAWOuexI.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekFWqUSez255kmnKwhPP6simoUg.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NjUuFE9KB2KaHQRq8KsvQJN3d.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaIu8KMQgU4hLtiUd3bDinhtpN9.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNOC1yOF7BMoNAu4rspJfby96Rm.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5ypDv4A0IlMFJdqatu8cujaEXA.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDqyO6MpHfiS9M9UUXEcaxFpIis.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOY LUNA: VOLVER A RODAR S01E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l44ek2OWOMbfSDKLq2Jxb66tjQr.jpg" group-title="DISNEY+",SOY LUNA: VOLVER A RODAR S01E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDFSwVHx5UXGKcsCSynP8DNRx26.jpg" group-title="DISNEY+",MARBELLA S01E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWY7NVilG2KARr2rICkCizrJDYT.jpg" group-title="DISNEY+",MARBELLA S01E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4JWIr34kjtBiidSRzKnYJS5Zw4.jpg" group-title="DISNEY+",MARBELLA S01E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CdimO2HdLxNkP08aRJfCNEbkaD.jpg" group-title="DISNEY+",MARBELLA S01E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obbT8PPeC4ROfNw01iOERtCZYQ4.jpg" group-title="DISNEY+",MARBELLA S01E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51u4OMQ21FPNojHtqHTJYL7QJWx.jpg" group-title="DISNEY+",MARBELLA S01E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcY8BaMCMzinleUK6LNDCzSRrCF.jpg" group-title="DISNEY+",MARBELLA S02E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rv5j6NZXWsvb0Ca3zMxgCbr3ov.jpg" group-title="DISNEY+",MARBELLA S02E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beFEwbFqN6ACuPOmPTst2MWNTJb.jpg" group-title="DISNEY+",MARBELLA S02E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anwAyYGYZZtCkD3HMXrPmWU0sSR.jpg" group-title="DISNEY+",MARBELLA S02E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybPaJRM1Ky89WOM2qJ82zCGtahn.jpg" group-title="DISNEY+",MARBELLA S02E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA S02E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esNdJ5nHtkc3t3oflAzLCcakuMY.jpg" group-title="DISNEY+",MARBELLA S02E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: EL ENMASCARADO S02E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlJsMhD7SItI98gsPelwipaeCZE.jpg" group-title="AMAZON PRIME",BATMAN: EL ENMASCARADO S02E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1229315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL DRAGÓN S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oumSnkavc4pcMFvPbgWDUTclNb.jpg" group-title="HBO",LA CASA DEL DRAGÓN S01E01 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1189153.mkv
@@ -106058,447 +106529,6 @@ http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123755.mkv
 #EXTINF:-1 tvg-id="" tvg-name="INVASIÓN SECRETA S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXLhr96JH5DG6TBM8rx8subMpnE.jpg" group-title="NETFLIX",INVASIÓN SECRETA S01E06 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123598.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123599.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E02 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E02 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123600.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E03 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E03 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123602.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123603.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E04 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E04 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123605.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E05 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E05 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E06 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E06 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E07 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E07 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123610.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E08 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E08 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E09 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E09 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E10 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E10 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E11 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E11 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E12 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123619.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E12 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E12 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E13 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E13 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E13 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E14 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123623.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E14 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E14 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123624.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E15 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E15 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E15 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E16 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123627.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E17 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123628.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E18 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E19 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E20 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123631.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E21 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E21 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S01E22 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S01E22 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E01 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E01 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E02 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E02 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E03 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E03 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123640.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E04 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E04 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E05 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E05 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E06 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E06 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E07 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E07 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123662.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123644.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E08 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E08 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123663.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123645.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E09 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E09 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123646.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E10 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E10 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123647.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E11 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E11 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E12 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123648.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E12 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E12 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E13 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E13 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E13 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123668.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E14 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E15 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123651.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E16 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123652.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E17 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E18 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E19 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E20 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E21 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E21 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S02E22 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S02E22 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123669.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E01 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E01 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123674.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E05 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E05 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123678.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123679.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123681.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E11 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E11 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123682.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E12 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123683.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E13 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123684.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E14 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123685.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E15 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E16 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123687.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E17 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E17 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E18 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E18 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123689.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E18 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E18 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123690.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E19 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E19 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123691.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E19 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E19 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123692.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E20 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E20 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123693.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S03E20 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S03E20 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123694.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123695.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123696.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123697.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123698.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123699.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123701.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123702.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123705.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E12 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123706.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E13 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123707.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E14 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123708.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E15 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E15 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123709.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S04E16 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S04E16 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123710.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E11 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E12 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E12 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E13 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E13 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123723.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S05E14 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S05E14 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123724.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123727.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S06E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S06E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E01 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E02 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E02 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E03 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E04 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E04 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E05 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E05 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E06 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E06 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E08 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E08 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E09 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E09 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM S07E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="NETFLIX",SEAL TEAM S07E10 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123744.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SECRETOS DE UN MATRIMONIO S01E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPVrCd0dbGyrc6aJk8wccJ8DrvW.jpg" group-title="NETFLIX",SECRETOS DE UN MATRIMONIO S01E01 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1123537.mkv
@@ -120605,9 +120635,6 @@ http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1045864.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SALVATION S01E01 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w1280/k1OStFm3XbpwUfhHWINVNQK4F16.jpg" group-title="CBS",SALVATION S01E01 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1045877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SALVADOR S01E07 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w1280/7JFJ1CwhEitxechszBwsmN6P6mi.jpg" group-title="NETFLIX",SALVADOR S01E07 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1045861.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SALEM S03E03 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w1280/lOTyE2msGWZz1Ve2qXCcOdeCCJi.jpg" group-title="OTRAS PLATAFORMAS",SALEM S03E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com:8080/series/AdanMontes/11122023AM/1045832.mkv
