@@ -179,9 +179,6 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/357059
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 11 [Opción 1]" tvg-logo="http://goldfull.pro:8880/images/9f52aa882d0be5fbec5fead45cef225d.png" group-title="⭐️ Nicaragua",CANAL 11 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/357692
-#EXTINF:-1 tvg-id="" tvg-name="HN: CANAL 11 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: CANAL 11 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/357703
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TELECREATIVA - BUENOS AIRES [Opción 1]" tvg-logo="" group-title="⭐️ Argentina Regionales",CANAL TELECREATIVA - BUENOS AIRES [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/359934
@@ -470,15 +467,6 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/414525
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $.Š.P.N 5 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $.Š.P.N 5 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/418591
-#EXTINF:-1 tvg-id="" tvg-name="TELECEIBA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6cd90179bc5523cbbec6fc2e88bf2b30.png" group-title="⭐️ Honduras",TELECEIBA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/421854
-#EXTINF:-1 tvg-id="" tvg-name="TELECADENA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/b0fa538867fe6f2bd71ebd7f8bf6e462.png" group-title="⭐️ Honduras",TELECADENA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/421855
-#EXTINF:-1 tvg-id="" tvg-name="UNE TV [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fa46ec7440c55f973b75d1458cfd71be.png" group-title="⭐️ Honduras",UNE TV [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/421857
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV OP1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV OP1 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/429004
@@ -4121,15 +4109,21 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554399.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS Y EL JINETE SIN CABEZA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/679ec7cd41cdd98ebd094bf70d4da23e.jpg" group-title="⭐️Infantiles",LOS PITUFOS Y EL JINETE SIN CABEZA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARY Y LA FLOR DE LA HEICERA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/09fd8242d85abba15c770fbca0829f2f.jpg" group-title="⭐️Infantiles",MARY Y LA FLOR DE LA HEICERA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS [Opción 1]" tvg-logo="http://redworld.pro:8880/images/af50ac5ba7aa96eae86ea65fc21abb6e.jpg" group-title="⭐️Infantiles",LA VIDA SECRETA DE TUS MASCOTAS [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/16bab4468d602ac883aabfda55418fbe.jpg" group-title="⭐️Infantiles",LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554436.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MATILDA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/1085a229c1fec9d53b2b2aee0e30a0d0.jpg" group-title="⭐️Infantiles",MATILDA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554439.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MONSTER HIGH: LA PELÍCULA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3bc4a394135ecc48c5c53b2098d21b48.jpg" group-title="⭐️Infantiles",MONSTER HIGH: LA PELÍCULA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MONSTER HOUSE \ [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3bc4a394135ecc48c5c53b2098d21b48.jpg" group-title="⭐️Infantiles",MONSTER HOUSE \ [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PEZTRONAUTA: LA PELICULA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6252c18ed279aef7ec680a04c19c475a.jpg" group-title="⭐️Infantiles",PEZTRONAUTA: LA PELICULA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/554476.mkv
@@ -4724,6 +4718,12 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/555800.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F. [Opción 1]" tvg-logo="http://redworld.pro:8880/images/24a8a1c6fbcd7bdd69776616d7bdd2a0.jpg" group-title="⭐️Películas 2024",UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F. [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/555810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HN | AZTECA HONDURAS [Opción 1]" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | AZTECA HONDURAS [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/555950
+#EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fa2429b4db3e0692951b660b46dd574b.png" group-title="⭐️ Honduras",HN | TELECEIBA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/555964
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -43049,9 +43049,6 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/357059
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 11 [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/9f52aa882d0be5fbec5fead45cef225d.png" group-title="⭐️ Nicaragua",CANAL 11 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/357692
-#EXTINF:-1 tvg-id="" tvg-name="HN: CANAL 11 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: CANAL 11 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/357703
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TELECREATIVA - BUENOS AIRES [Opción 2]" tvg-logo="" group-title="⭐️ Argentina Regionales",CANAL TELECREATIVA - BUENOS AIRES [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/359934
@@ -43262,15 +43259,6 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/414525
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $.Š.P.N 5 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $.Š.P.N 5 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/418591
-#EXTINF:-1 tvg-id="" tvg-name="TELECEIBA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6cd90179bc5523cbbec6fc2e88bf2b30.png" group-title="⭐️ Honduras",TELECEIBA [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/421854
-#EXTINF:-1 tvg-id="" tvg-name="TELECADENA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/b0fa538867fe6f2bd71ebd7f8bf6e462.png" group-title="⭐️ Honduras",TELECADENA [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/421855
-#EXTINF:-1 tvg-id="" tvg-name="UNE TV [Opción 2]" tvg-logo="http://redworld.pro:8880/images/fa46ec7440c55f973b75d1458cfd71be.png" group-title="⭐️ Honduras",UNE TV [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/421857
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV OP1 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV OP1 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/429004
@@ -46325,15 +46313,21 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554399.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS Y EL JINETE SIN CABEZA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/679ec7cd41cdd98ebd094bf70d4da23e.jpg" group-title="⭐️Infantiles",LOS PITUFOS Y EL JINETE SIN CABEZA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARY Y LA FLOR DE LA HEICERA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/09fd8242d85abba15c770fbca0829f2f.jpg" group-title="⭐️Infantiles",MARY Y LA FLOR DE LA HEICERA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS [Opción 2]" tvg-logo="http://redworld.pro:8880/images/af50ac5ba7aa96eae86ea65fc21abb6e.jpg" group-title="⭐️Infantiles",LA VIDA SECRETA DE TUS MASCOTAS [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/16bab4468d602ac883aabfda55418fbe.jpg" group-title="⭐️Infantiles",LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554436.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MATILDA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/1085a229c1fec9d53b2b2aee0e30a0d0.jpg" group-title="⭐️Infantiles",MATILDA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554439.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MONSTER HIGH: LA PELÍCULA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3bc4a394135ecc48c5c53b2098d21b48.jpg" group-title="⭐️Infantiles",MONSTER HIGH: LA PELÍCULA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MONSTER HOUSE \ [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3bc4a394135ecc48c5c53b2098d21b48.jpg" group-title="⭐️Infantiles",MONSTER HOUSE \ [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PEZTRONAUTA: LA PELICULA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6252c18ed279aef7ec680a04c19c475a.jpg" group-title="⭐️Infantiles",PEZTRONAUTA: LA PELICULA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/554476.mkv
@@ -46892,6 +46886,12 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/555800.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F. [Opción 2]" tvg-logo="http://redworld.pro:8880/images/24a8a1c6fbcd7bdd69776616d7bdd2a0.jpg" group-title="⭐️Películas 2024",UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F. [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/555810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HN | AZTECA HONDURAS [Opción 2]" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | AZTECA HONDURAS [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/555950
+#EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/fa2429b4db3e0692951b660b46dd574b.png" group-title="⭐️ Honduras",HN | TELECEIBA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/555964
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
@@ -85655,9 +85655,6 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/235616.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7/4 [Opción 1]" tvg-logo="http://icon.guard447.cyou/logos/LAT_centroamerica/teleceiba7.png" group-title="HONDURAS",TELECADENA 7/4 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/AdanMontes/11122023AM/85522.ts
-#EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA [Opción 1]" tvg-logo="https://i.postimg.cc/1XGb8XxJ/2a70705ddc07e03607a83aa87cc440a2-removebg-preview.png" group-title="HONDURAS",HN | TELECEIBA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/173435.ts
 #EXTINF:-1 tvg-id="" tvg-name="CR - RETRO PALMARES [Opción 1]" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUQEBAQFhUXFRUYFRUYFRUYFhUVFRIXFxcVGBMYHSggGBolGxUVITEhJSkrLi4uFx80OTQsOCgtLisBCgoKDg0OGhAQGy0fHyUtLS0tKy0tLS0tKy0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALQBGAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIEBQYDBwj/xABHEAACAQIDBQMGDQEFCAMAAAABAgADEQQFIRIxQVFhBnGREyIygaHBBxQVIzNCUlNikrHR4YJDcpOj8CQ0g6KywtLxRFRk/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAIEAQMFBgf/xAA0EQACAQMDAQUGBQQDAAAAAAAAAQIDBBESITFBBVFhcYETMqGxwfAUIiOCkSQzNGIGFUL/2gAMAwEAAhEDEQA/APENow2zzjYTOWB22ecL9YyEZYH36wv1jIRlgffrC/WMhGWB9+sL9YyEZYH36wv1jIRlgffrC/WMhGWB9+sL9YyEZYH7Z5yRQwlSoLqpI5yJNNk+K+ZJYWCcefqjLBRYnDvTNnBHLrOO2ectM3zNaoCIDYG9z7uUqIywP2zzhfrGQjLA+/WF+sZCMsD79YX6xkIywPv1hfrGQjLA+/WF+sZCMsD79YX6xkIywPv1htnnGQjLB0VusI1YScWwNhCE1gIQhACEIQAhCEAIQhACWGWZd5a5LWAtfTXWV8kYbEvTN0NvfALbFZIoUlXOgvrb9ZQy5w+cFjs1gCp0NtLSPmWXml5ynaQ7jAK6EkUcK7+ijH1e+SVyasfqgd5EAgKtzYS6zUijRSiN51aLluUMrhqlrDXfxkfN6FVnLshtwtrpAKuJFiQAhCEAIQhACEIQAhCEAIQhACEIQAhCEAcsILCTjwBsIQkAEIQgBCEIAQhCAEIQgBFiTtSos2iqTfobQCTl2XNWNxoo3maPC4YU12ASR11/9R9GkEAUbhHwAhCEAIQhAIWNy5Kv4W4MPeJQPl1UEjYY24jdNZFgGVXKax/syO8idFyWqeCj1zTRIBnvkKpxZI8dn2+8XwMvoQCkHZ7nV/5f5jhkC/eN+X+ZcwgFP8gL943gIfIC/eN4CXEIBSns+OFQ/lnN8gbhUU+q0voQDMVMnqj6oPcZEq0WQ2ZSD1E2VoMARYgEddYBiLRJo8bkqtrT808vqn9pQ1qLISrCxEAYsIohJx4AyEISACEJPw+V1H1sAOZ0gECLNBh8jQemxPdoJYU8HTT0UUeq/wCsAy1HB1H9FGPq98mUslqnfZe8/tNFVqhfSYL3kD2STgcFWr/QUK1TqqHZ/ObD2zDaSy9gZ+l2fH1qh9Qt7TJNPJ6S8Ce8zb4PsBmFTfTpUx+Opc/lUH9YtPsLUBIq4oaG1kp29rMf0mKMo15ONJ6mufA11asaSzPYyNPCovoovhO5036TbUOxWGHptXqd77P/AEASfR7M4Nf/AI1Inm12PiZdjaTfOEVX2hSXGWeaHEoPrr4zrSJc2RKjH8KMfdPWKWFpp6FKkvcij3TqKh3XMpXzdtp65z8DX/2GeI/E8tpZVim9HCYg9SuyPFjJK9msad2HA/vVQP0BnpBiWnNd9PokiH4+b6I84xfZvF0k23GHAFr+exOvLSRvkqr95SH9LH3zedpB8we8foZmyJ17Fe2pap85aO52bBV6OufOWio+SX41l9VP+Y75HPGu3qRZa2iy57GHcX1bU+4p3ym39tU8F/aN+TR99U/Kv7Szr8JytOVdScarUdlt8joUbOhKGXBEA5byrP4L+0YcuqfVrL/Un7SytFlf2011Jvs+2f8A4+ZRVRVQ2ZFb+6fcZzTGKTY3U8jpLLF+lI1WkGFmAM7sLLXTUk92k/A8nWqqFWUVwm8CQkGorUTcElOXKTKbhgCNxlOcHB6ZckotNZQ+JCEiSCEIQBZAzXBeVQkekuo69JOiiDBiIskZgmzVYfiMJKIIkscvytqvnHRefPuE45dh/KVAvDj3TWBbaDcN0gCPhcDTpjzV15nUmSGcDUkAc4yvVCKWbcJ6R8HPwbriFXG5iu0rANSw5HmgH678z0gGMyHIMXmH+54cut7Gq52KQ7mIu3qm7wfwS7AD43GO2v0dFfJqNNxcksfVaetU6YUAKAANwAsAOQHCccwS6Hxmi6clRk4PDwZXJjsr7KYHDfQ4WkD9phtt+Zry6BjRFAnkZzlN5k8lhIUTNZgmzUYdbzSyhzpbVL8xO/8A8cqabqUe+PyaOb2pHNFPuZAjhEgJ7RnAIWa4hkChGIJO/pxlf8YqfeN/r1S4rUFf0lBtuvORwdP7C+2ef7YpzTjUb24x3PnPqdaxvLalT0VKWt552K0Ymp943+vVF+NVPvG8f4hmFNVdVUW0uesjsdD3Ti5PR21G2r0lUVNLPgh2KLVV2HqORvtp+0h1MEgBN30HMyfmdBVwwYDztNdb6iURHU+JnTs6FWpDMJ6Vl7ErKtSq026UdKy1j6i4cbRRSTrvtoZO+Ip9p/zSHh/pE75ayXaFWpCqlGTWy6l2O5R4jQka6GcZ3xnpt3zhNFSTlLL7l8kX6HuIJNy/BrUUsxbQ20NhIUtMlHmE82mmXBiu2ksMiZzl1NKRdFsQRqSSTKKajtAbUG6kTLz0XY85Soyy87/RHku04qNVY7vqxrqCCDxkDAHZZqZ4aiWErkH+0Hum6/itKfp8CrQe7RKqV1XRjaN+Np9r2GcMU1m32/r2fZOXlOp/xf4nMLRL+Np9r2GHxxPtewyJ5Tqf8X+IeU6n/F/iATVxSE2B9hnaV9F7sBf/ADb+zjLBYBlM0Pzz/wB6E5Y1r1GP4jCSjwYO2TvaqvU28RNTMXRfZYHkZtA1wDzAkAR6wU1aC1L7BrIHtyuLe2fV9MAAAbrC3dPkzNW2ae39lkPg1/dPqvLMSKtGnVBuGRW8VBgEuMqrcEdI+Ew1nYGdAjo/FJZyOsZPGShok49xaQSoz5fRPeJbSuz1fmweRnS7Hnpvafi2v5TKd9HNvIoxCLEn0BnmRY20dEnG7aX6EX/svkyUSkxr3qt0sPaZHqC4tz0jtq7MebH9Y6mLug/F+hnn0e6pf09mn3R+OCX2g0w5HVf0MzM0/aL6Bv7wmYnd7K/svzZS7F/xv3P6CobMh/FLkiUrfVP4hLlpV7VX6kX4fU7MSkx/0rd84TvmQ+ebuBkexJCqLk7hKmdtzoUmlBC06ZchF3n2DnNBSpBAFG4ThgcJ5Ma6sd59w6TlmuO8ktlsXI/KOZkFmpJQj1Klarqy+iKvtDi9pxTXcurdTwEqYkWextrdUKSprp8WePr1pVqjmwEr8Ob1mPKWDNYXldlguGbmZXv5bRX397k7flsdir7Wgb1bPv1nOx/H/lyY9FWN2UE9RE+LJ9hfCc0skSx/H/lwsfx/5cl/Fk+wvhD4sn2F8IBGpXuPS/5PdrJeIqbKMx4CIuHQahVv3SHntXZpW4sQIBmr3N4RohJIwJNflz7VJD0tMhNJ2eqXpleRkAT8Um0jDmp/SfQPwVZkMRlmHYfVQIe9NDPBBPUfgAzAmhicK2+lUDDuqXPugHrMIl4sAqczWzA8xIkss0S6g23GVk8t2jDTcSffub6b2CRc1TapMJLnLELdWHQzRbVPZVoT7mn8TFaOqEl4MyoixBFn05rB5EIzEPsqx5Xj5zxNPbUrci/KcvtdZtn5r5k4YzvwUKDQSTly3q9yk+Np3GVj7b+Czvg8H5MkhibgDhwnmHJHp73tShUoSpwby9uDhn/0Dd498y81OffQN3iZad7sr+w/M29i/wCP+5/QHFxLahUDKCOXtlXCkxU3U258j3ibb21ddLTyvqdhE7FYIVCCSVI4jiOREfhsKtMeaNTvJ1J7zIDZm402V9o98i18Q9TRjpyGgnDcJLZliNOcljoTsVmVvNp6ni3AfuZT4o+aSdSTqec7CR8c2lusuWEP6iCXeQvYRpWtR+HzIMIsQT1p4si5lU2UsN50E6YensqFkev59UDgv6yZOLdz1VH4bffqXKUcRCEIsrGwSEWEyBJm8+r7VTZvouk0OJrbCFzwExtRiSSeJmANEIqwk4gbLfs9VtUK/aEqJIwVXYdW6+yQBsJqvghx/wAXzQoTZcRSItzZG0/UzKxnxw4apRxSjWjUD943EQD2TtRnOMoYh6JxBVTZqeyqrdTwub3IlG+Z131bEVz/AMQj/ptPWqbo6rXspum0GsCbEA6GeOmv5RmqH67sfAkCc+5UoP3nv0OnaSU1jStjrTqVmuVbENbfZqjW77XnXD5riE9HEVNOBNx6wZuPg8w5XCbRGru59w/SQe1dGiKb+V2RUH0ZFtsnhYbyJUuY+z0NrOr1Hto63FxWEVeB7Vsp/wBoRSvF00I6lOI7pqadQMAykEEXB4EGeaLwm07HEnDC+7aOz3XMoXVCMYao7Ga9KMcNFdVWzMOpjZIzFLVWA5yBXxlNDYuL8gLn2T6FTqxdGM28ZS+R4iVKTqOCWXnpud4NIXymv2angP3jkzCmxsTsn8Qt7Zz+0LijUtpxjJN+fija7O4hvKnJLyJVpwxWJWna9zc2Fo/EVQilm3DlKvH4gVGXZDWAN7i2pnmEslmxtZXFWKw9PV+meRmcZgrUymy4JItutoO+UUsMYhI3E8u+VzeadlvNNtxnf7LlFU9Gd8/Q9XbW8KCdOnnGc7+KHQERBtGyjaPS0V0ZfSRh/rpOj7SClobWe4sMivvjZ1p0Hc+apI57h4mHxZ9R5NzbkpI8bTz0nmTx3s6cZxSSyjlImO4Se9B1F2RgOoIueQ5zjXy2s5utM2txIEt2MowrqVR4ST58ih2pLXbSjDdtrjzKyc69XYUtyEsKmU111NM+ogynzCmxqeROmzYt6907s7ylobhJN9MM8mqE1Ja4teYmX0rDaO9jeSosSchlorKuOYnzdB7Y1Mc43m4narl+vmsLcj+8amXH6zC3SYBYobgEcY6NUWFhGYquKaFzwHiZkFN2ixOopDhq3fKOda1QsSx3nfOUwBywgsJOPAGwhCQBrstr7dNTxAsfVJFVAylTuItKLs9ibMUJ0O7vl/ANr2N+EY08EMveg7VFHk1cMNkKdATfXSdVTZGzwA198x2QYMnFK43BSWHW+hmlzrE+SoVX/Cbd53ShdtSnGK+8s6dktFOU394LKhj6hQCnXqbA3BXIUd1pExddKfnve5Nr6lie+ee9n+1L0HC1ADTNtoAag29IDjPQkenWTaVg6NuI4/sZCtT9nPnMe8229VVI5SSfVEKtmZOippfW51YcrDdLlO2+IUBEo0FAAAGy50kXsZldKniqi5gVq4dkHknew2HB1DAcbcZ6Rl+Q5VXB8hQw77Js1hex6zH4WFRdGTq3NBflnBvzPOznuIxTNtlFAFiVBBbpcxlUlV+bQE8tw7zzl32sylcJiLIipSqC6WFl2hvXvlZhwhYCqXVOLIAWXrY8Jio5JqD4jslvjAp+ySdSnHGrnHJU7Nbm1+9QPASy3ixAPPkZoqOT5eRtfKRt3Ip9omF7bUqq1XGFqPUwqqt3uAS3EcyJunTlVks6Y+X3uQdzFLKTfodnxVQ+aKjFQdBw7uskYCszhix3GwmBXEMRo7WtpqZtezX+7oedyTLN7SjCjFY32WepptK0ZtxhHHXp9C6wNHyjNtEgDl/MnYbCJTvYg3OpbZJnnvarCVGrbYpuVKWuBcX5G0pTh9k2ZCDvsRY9+sqxs1Kmpqfp9s5d/CtOrJOb0546Hp2YMDUFrWC8Lce6Q69rbTGwHHh/Mq+ytAJQ0AG05Okr+1WMLOKI9FRc9TNEIfn0rodOk1b2kU99v5bNNRrB9xHiD+kl4XNEpUyhdfKAm1O/nG4005TzrDY2pTBWm5UNqQNLn3QwWI2KqVGN7HzidTbvl23creUpw7tijdVKd3ThTqd6bfTxN6zEks7Esd55dByEfltbBuNqtjqaa6Iurd5J3TnUUMCAdCND0I3zF1crrpdfJO1txUXBlWFONZvXNp+fP8l+5lOhCMaMdvBcG2xmJwu2qYbEircejazL15ESuzvALVplrAOouG49xPESv7N5Q9NjXr2DEbKJxVeJJ5mT88xop0yoI23FgOQ4k9JHQo1FGDybIuTofq9TH1q2yu1/q8q2xLnXaI7pbsgI2TukM5ceDDwnWOScsNjGBAJuPbLQyJQwIU3JueElXjAFEzedY3yjbKnzV9plhnWP2B5NfSI16D95nJgCRIsSAOWEFhJx4A2EISAOiMQQRvE1GWY4Vl10Ybx75k51o1WQ7Skg84BvcuxxoszKqsSADckWt3Tn2gzKriKRpbCAXuSCSfAiUeEzxW0qDZPMajw4Syp4hG9F1Prmt0oN6mtzYqs1HSnsZSrQZTYiTMozythSTSbQ+kp1U+qaGpSDbwDIz5ZSP1bSbSawyCk1ujRdnO1QxdWnh2pqjVG2Q215oPUWvPZez3ZKphawrHED0dlkVNGHC7E+6fPGFwApOtWmxV0YMp32K6g2m4pfCbmq762GbvoH3PNUaFOL1Jbm6VxUksNnuWPwNOuhp1kV1PAj2jkZksZ2C1vRrkDk67RHQMLG3feYFfhUzP8A/If+G4/7pIp/C7mA34bBH+uqPdJzhGfKIQqzh7rwasdhK531aHfZj7ph/hB8rl1dMMjo23SLl9i1vOsVtcyzHwwYz/6WE/xqn/jMf2zz+rmlanXqUKVJkQpZXZgwLA63AtIwt6SeWicrqs17xnRLHKc4qYe6gBkJvsm+nceEhjDVDuCnuvOgwFb7C+MuVJ0ZLE8YNNGnWT1U0/NGgHa0fcv+cSqzTNDiSGZFXZBAIJJseBJkKjhHY7PmDvJkpMrOo8olxwtKcqdvD3OfUs6Lu4hhLK46L0JuCz56SLTFNCFFgdo6+q0rcViDUdqhABY3twHQQwdLX5092z77ztmGGC2CaHiTqD6prUFGeEtyDp1qlHW5LSunX4EWCm5k7KqXpBrMeBt7J3pVLqxAVXHSZlJxfBOj2d7SEZOfOdkt9uVzycKGdvhhs3uvBGv7DvEusLn7stzhyCfxj9pU4r5ymr2EVfnKe+xHHpIVVCa1Y3zuXrejKnN09TktKceN0T8XntUaKioeZO0e+1rSvehtXqPUJJ3tvPjHY0XUMCDztGYAghkMzGOmGVt3knBO5dKa1JrMc8cfVjcTRCgEG4PGdMKqMD5uoimzUyq6bB1B3yBgMxp+UChrk6aDTxkt3B78GNEKdxDEVpml479cZ7md6tdStlQBvZO+PxFRaatRTaPFdN3OQsxTE1KhoUwqr9vdf+qQcqwmJYVKS4jY8mfR69DykWotZ48ycHVjUlFpvKxlJR3jnjLx6lfnwqs/lK1MISNLHSVM2ueUC2GAqsvlE13g3PTnMUZvpPKOffUnCrnLed9+fUSJFiSZTHLCCwk48AbCEJABFiQgCwiQgHVKrDcxHcZpcmDeT2mJJJ48hMsJpamPSjSUAgts6AcOpgCZzmBp2RD5289BKsZzW+0PASFVqFiWY3JjIBZDO6v4fCP+XanJZUwgFwM/f7C+2OGft92viZSwgGgodomUjzLa6+d/E07g+UV1I2CNbm2/kJ50JtatGm+HSlVr0wRY7QNwPVNFWKymdbs+pJxlHnGGt8brx8Tjj8yWlXCgAi41B3XFpbVmRKqkmxcWUW0Pr4TAlFV7E3W+pHEcxL7OM5ovTRKXlLoQVYgcOBmJwzhLyM29zGKqSlhb6kvHrj0O2dY7yFQpsE8QbyZj8YDQWuq33XHKU+cZ5TrrbyHnWFnLai3IARF7TVAoVadMADl7ZnEsLwIa6EZVY6vyy4wnzn6FlRxdRGpmpS2Fc2DbQO/XdaT0qFMUaRGjrdTzI4W9cyONzmrVAV2FgbgAAWPfONfHVXIZ6jEjcSdRMypyluyNO7pUkowTaTTWcd2H/JscDUO1WoP5pU3W5tcHvkTJMeoVzWrUxrbZ3eu/GZBmJ1JJMYTMullNZ5IK+xKMlH3c4y+j6dPI1eBzakEelVqG215pUb16W3TvlOYIS2yCbbrnUjmZjZ3w2IamwZTqJL2a3NX4uf5cYWnjY0+OzBsOxqqoO3owN9446SobPKnlTVUIpIsbDS3dJGYY5KtA6gNcebxB4ygmdEe4h+Jq4xq659S0fPcQf7Uju0kGpWZjtFiSd54zjEmUkuCE6s5+82/MUwiQmTWLEhCAOWEFhJx4A2EISACEIQAhCEAIsIQAiQhACEIQAhCEAcIloQgPgUwMIQZEhCEGAhCEAIQhAEiwhACEIQBIQhACEIQAhCEAcsIQk48A/9k=" group-title="COSTA RICA",CR - RETRO PALMARES [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/AdanMontes/11122023AM/256849.ts
@@ -89819,147 +89816,90 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/742929.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 7 | [Opción 1]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="⚽LIBERTADORES⚽",LIBERTADORES 7 | [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/AdanMontes/11122023AM/742930.ts
-#EXTINF:-1 tvg-id="" tvg-name="02:05 ▫ RUGBY ▫ WELLINGTON VS. NORTH HARBOUR ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/24908ce13bfd3ec802bfc0ba32fc79e8.png" group-title="✨Eventos Diarios 13/08✨",02:05 ▫ RUGBY ▫ WELLINGTON VS. NORTH HARBOUR ▫ ▫▫ [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328250.ts
-#EXTINF:-1 tvg-id="" tvg-name="06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328458.ts
+#EXTINF:-1 tvg-id="" tvg-name="07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328251.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328459.ts
+#EXTINF:-1 tvg-id="" tvg-name="10:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="✮[TENIS / PADEL]✮",10:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328252.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="✮[TENIS / PADEL]✮",10:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328467.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:30 ▫ SEGUNDA UY ▫ CERRITO VS. ORIENTAL ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="✨Eventos Diarios 14/08✨",12:30 ▫ SEGUNDA UY ▫ CERRITO VS. ORIENTAL ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328255.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="✮[TENIS / PADEL]✮",13:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328483.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="✮[TENIS / PADEL]✮",13:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328278.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:30 ▫ EUROPA LEAGUE ▫ ANDERLET VS. PAOK ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/f84b0cc2406b6c5c39fe450de296615e.png" group-title="✨Eventos Diarios 13/08✨",13:30 ▫ EUROPA LEAGUE ▫ ANDERLET VS. PAOK ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328487.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:30 ▫ L4L1G4 HYPERMOTION ▫ REAL SOCIEDAD II VS. CD CASTELLON ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/e591b391c98cc53ec4439a3d4fda04c7.png" group-title="✨Eventos Diarios 14/08✨",13:30 ▫ L4L1G4 HYPERMOTION ▫ REAL SOCIEDAD II VS. CD CASTELLON ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328280.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328491.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:45 ▫ LIGUE 2 ▫ ANNECY VS. RODEZ ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/1ea57fd6a9f28f75593fe721198d5c1c.png" group-title="✨Eventos Diarios 14/08✨",13:45 ▫ LIGUE 2 ▫ ANNECY VS. RODEZ ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328281.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ▫ COPA ▫ ASTILLERO VS. DAQUILEMA ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/7a7a64a8b75118fec0cea77f1085b771.png" group-title="✨Eventos Diarios 13/08✨",15:00 ▫ COPA ▫ ASTILLERO VS. DAQUILEMA ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328494.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ AMPIONSHIP ▫ WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/01c81308522327b0b7ecdeb6bdc7bf9c.png" group-title="✨Eventos Diarios 14/08✨",14:00 ▫ AMPIONSHIP ▫ WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328287.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ COPA LIBERTADORES ▫ MIRASSOL VS. LDU QUITO ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/e151e04ab484d5c2511916de99980b4a.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ COPA LIBERTADORES ▫ MIRASSOL VS. LDU QUITO ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328504.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328291.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ COPA LIBERTADORES ▫ MIRASSOL VS. LDU QUITO ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/e151e04ab484d5c2511916de99980b4a.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ COPA LIBERTADORES ▫ MIRASSOL VS. LDU QUITO ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328505.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30 ▫ PRIMERA PY ▫ DEPORTIVO RECOLETA VS. 2 DE MAYO ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="✨Eventos Diarios 14/08✨",16:30 ▫ PRIMERA PY ▫ DEPORTIVO RECOLETA VS. 2 DE MAYO ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328292.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ COPA SUDAMERICANA ▫ SANTOS VS. MACARÁ ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/207377278f7dd4d42881f3a2531c689a.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ COPA SUDAMERICANA ▫ SANTOS VS. MACARÁ ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328510.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ BRASIL B ▫ SPORT RECIFE VS. LONDRINA ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/1b54d26c8eab60d02111544cb5d9df47.png" group-title="✨Eventos Diarios 14/08✨",18:30 ▫ BRASIL B ▫ SPORT RECIFE VS. LONDRINA ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328293.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ COPA SUDAMERICANA ▫ SANTOS VS. MACARÁ ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/207377278f7dd4d42881f3a2531c689a.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ COPA SUDAMERICANA ▫ SANTOS VS. MACARÁ ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328529.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ WNBA ▫ DALLAS WINGS VS INDIANA FEVER ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="✨Eventos Diarios 14/08✨",18:30 ▫ WNBA ▫ DALLAS WINGS VS INDIANA FEVER ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328294.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ FÚTBOL FEMENINO NCAA ▫ OLD DOMINION VS. VIRGINIA TE ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/cabc4cd0470427a2dbfce781a5360bff.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ FÚTBOL FEMENINO NCAA ▫ OLD DOMINION VS. VIRGINIA TE ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328531.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ LIGA PRO ▫ INDEPENDIENTE DEL VALLE VS. DELFÍN ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/7a7a64a8b75118fec0cea77f1085b771.png" group-title="✨Eventos Diarios 14/08✨",19:00 ▫ LIGA PRO ▫ INDEPENDIENTE DEL VALLE VS. DELFÍN ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328297.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ▫ WNBA ▫ ATLANTA DREAM VS. CONNECTICUT SUN ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="✨Eventos Diarios 13/08✨",18:00 ▫ WNBA ▫ ATLANTA DREAM VS. CONNECTICUT SUN ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328532.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ CANADIAN PREMIER LEAGUE ▫ VANCOUVER FC VS. PACIFIC FC ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/bb280426fee015364fe0cd9edec7db16.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ CANADIAN PREMIER LEAGUE ▫ VANCOUVER FC VS. PACIFIC FC ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328303.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ LEAGUES CUP ▫ NEW YORK CITY VS. NECAXA ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="✨Eventos Diarios 13/08✨",18:30 ▫ LEAGUES CUP ▫ NEW YORK CITY VS. NECAXA ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328538.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LIGA MX EXPANSION ▫ CORRECAMINOS UAT VS. TAPATÍO CD ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/d0939cd9a88017504640af494080c0b3.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ LIGA MX EXPANSION ▫ CORRECAMINOS UAT VS. TAPATÍO CD ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328305.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ MLB ▫ PHILADELPHIA PHILLIES VS. MINNESOTA TWINS ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios 13/08✨",18:30 ▫ MLB ▫ PHILADELPHIA PHILLIES VS. MINNESOTA TWINS ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328539.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LIGA MX EXPANSION ▫ MINEROS DE ZACATECAS VS. VENADOS ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/d0939cd9a88017504640af494080c0b3.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ LIGA MX EXPANSION ▫ MINEROS DE ZACATECAS VS. VENADOS ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328306.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ALIANZA FC VS. UMECIT FC ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",19:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ALIANZA FC VS. UMECIT FC ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328540.ts
+#EXTINF:-1 tvg-id="" tvg-name="22:00 ▫ RUGBY ▫ CANTERBURY VS. BAY OF PLENTY ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/24908ce13bfd3ec802bfc0ba32fc79e8.png" group-title="✨Eventos Diarios 14/08✨",22:00 ▫ RUGBY ▫ CANTERBURY VS. BAY OF PLENTY ▫ ▫ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328308.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ALIANZA FC VS. UMECIT FC ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",19:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ALIANZA FC VS. UMECIT FC ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328552.ts
+#EXTINF:-1 tvg-id="" tvg-name="10:00| CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 1]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",10:00| CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328309.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ COPA LIBERTADORES ▫ ROSARIO CENTRAL VS. CORINTHIANS ▫ ▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/e151e04ab484d5c2511916de99980b4a.png" group-title="✨Eventos Diarios 13/08✨",19:30 ▫ COPA LIBERTADORES ▫ ROSARIO CENTRAL VS. CORINTHIANS ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328554.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:30| CERRITO VS. ORIENTAL | SEGUNDA DIVISIÓN DE URUGUAY [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30| CERRITO VS. ORIENTAL | SEGUNDA DIVISIÓN DE URUGUAY [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328316.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ COPA LIBERTADORES ▫ ROSARIO CENTRAL VS. CORINTHIANS ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/e151e04ab484d5c2511916de99980b4a.png" group-title="✨Eventos Diarios 13/08✨",19:30 ▫ COPA LIBERTADORES ▫ ROSARIO CENTRAL VS. CORINTHIANS ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328573.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:55| WOLVES VS. BLACKBURN ROVERS | EFL AMPIONSHIP [Opción 1]" tvg-logo="https://i.postimg.cc/gcB2CPG1/24.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:55| WOLVES VS. BLACKBURN ROVERS | EFL AMPIONSHIP [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328317.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LMB ▫ PIRATAS DE CAMPEE VS. PERICOS DE PUEBLA ▫ ▫ [Opción 1]" tvg-logo="https://i.postimg.cc/V6rst0kn/lmb.png" group-title="✨Eventos Diarios 13/08✨",20:00 ▫ LMB ▫ PIRATAS DE CAMPEE VS. PERICOS DE PUEBLA ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328575.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00| CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 1]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",13:00| CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328325.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:30 ▫ LMB ▫ OLMECAS DE TABASCO VS. BRAVOS DE LEÓN ▫ ▫ [Opción 1]" tvg-logo="https://i.postimg.cc/V6rst0kn/lmb.png" group-title="✨Eventos Diarios 13/08✨",20:30 ▫ LMB ▫ OLMECAS DE TABASCO VS. BRAVOS DE LEÓN ▫ ▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328577.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:50| WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS | AMPIONSHIP DE INGLATERRA [Opción 1]" tvg-logo="https://i.postimg.cc/gcB2CPG1/24.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:50| WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS | AMPIONSHIP DE INGLATERRA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328327.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ANTIGUA GFC VS. CD MARATHON ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ANTIGUA GFC VS. CD MARATHON ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328584.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00| COMERCIANTES UNIDOS VS. ATLÉTICO GRAU | LIGA 1 TE APUESTO PERÚ [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",15:00| COMERCIANTES UNIDOS VS. ATLÉTICO GRAU | LIGA 1 TE APUESTO PERÚ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328331.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ANTIGUA GFC VS. CD MARATHON ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ ANTIGUA GFC VS. CD MARATHON ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328588.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30| BOSTON RIVER VS. DANUBIO | CAMPEONATO URUGUAYO [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:30| BOSTON RIVER VS. DANUBIO | CAMPEONATO URUGUAYO [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328332.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ LUIS ÁNGEL FIRPO VS. CACIQUE DIRIANGÉN FC ▫ ▫▫ [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ LUIS ÁNGEL FIRPO VS. CACIQUE DIRIANGÉN FC ▫ ▫▫ [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328589.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00| JUAN PABLO II COLLEGE VS. CUSCO | LIGA 1 TE APUESTO PERÚ [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00| JUAN PABLO II COLLEGE VS. CUSCO | LIGA 1 TE APUESTO PERÚ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328333.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ LUIS ÁNGEL FIRPO VS. CACIQUE DIRIANGÉN FC ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9b1ee45cecf428dfd6a72237227ab269.png" group-title="✨Eventos Diarios 13/08✨",21:00 ▫ CONCACAF CENTRAL AMERICAN CUP ▫ LUIS ÁNGEL FIRPO VS. CACIQUE DIRIANGÉN FC ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328596.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30| RACING VS BANFIELD | LIGA PROFESIONAL ARGENTINA [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30| RACING VS BANFIELD | LIGA PROFESIONAL ARGENTINA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328334.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:00 | CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 1]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",10:00 | CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328601.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30| WINGS VS. FEVER | WNBA [Opción 1]" tvg-logo="https://i.postimg.cc/59qqHSj4/WNBA.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30| WINGS VS. FEVER | WNBA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328341.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 | EN ESPAÑOL: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:00 | EN ESPAÑOL: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 1]
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328602.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:50| CORRECAMINOS UAT VS. TAPATÍO CD | LIGA DE EXPANSIÓN MX [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:50| CORRECAMINOS UAT VS. TAPATÍO CD | LIGA DE EXPANSIÓN MX [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328352.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 1]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",13:00 | CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328358.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | ENGLISH: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:00 | ENGLISH: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328362.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:45 | ANDERLET VS. PAOK FC | UEFA EUROPA LEAGUE [Opción 1]" tvg-logo="https://i.postimg.cc/sgbRz6B5/Copilot-20260122-084651.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:45 | ANDERLET VS. PAOK FC | UEFA EUROPA LEAGUE [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328365.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:45 | CENTRAL CÓRDOBA VS. INDEPENDIENTE | TORNEO PROYECCIÓN [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | CENTRAL CÓRDOBA VS. INDEPENDIENTE | TORNEO PROYECCIÓN [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328370.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:45 | MIRASSOL VS. LDU QUITO - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 1]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol-Libertadores-logo-svg.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:45 | MIRASSOL VS. LDU QUITO - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328374.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:50 | MACARÁ VS. SANTOS - 8VOS DE FINAL IDA | CONMEBOL SUDAMERICANA [Opción 1]" tvg-logo="https://i.postimg.cc/ZnkHHwBK/sudamericana.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:50 | MACARÁ VS. SANTOS - 8VOS DE FINAL IDA | CONMEBOL SUDAMERICANA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328375.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 | LEAGUES CUP - COUNTDOWN | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:30 | LEAGUES CUP - COUNTDOWN | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328379.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 | LEAGUES CUP - LA PREVIA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:30 | LEAGUES CUP - LA PREVIA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328380.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 | EN ESPAÑOL: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00 | EN ESPAÑOL: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328383.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 | ENGLISH: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00 | ENGLISH: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328384.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 | EN ESPAÑOL: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30 | EN ESPAÑOL: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328385.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 | ENGLISH: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30 | ENGLISH: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328386.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:50 | ALIANZA FC VS. UMECIT FC | CONCACAF CENTRAL AMERICAN CUP [Opción 1]" tvg-logo="https://i.postimg.cc/d0qgKvvr/ccentralamer.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:50 | ALIANZA FC VS. UMECIT FC | CONCACAF CENTRAL AMERICAN CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328387.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | ROSARIO CENTRAL VS. CORINTHIANS - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 1]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol-Libertadores-logo-svg.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:00 | ROSARIO CENTRAL VS. CORINTHIANS - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328391.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:50 | ALEBRIJES DE OAXACA VS. TEPATITLÁN FC | LIGA DE EXPANSIÓN MX [Opción 1]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:50 | ALEBRIJES DE OAXACA VS. TEPATITLÁN FC | LIGA DE EXPANSIÓN MX [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328393.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | EN ESPAÑOL: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:00 | EN ESPAÑOL: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328395.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | ENGLISH: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:00 | ENGLISH: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328396.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:30 | EN ESPAÑOL: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",21:30 | EN ESPAÑOL: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328403.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:30 | ENGLISH: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 1]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",21:30 | ENGLISH: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/AdanMontes/11122023AM/1328404.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/1328607.ts
 #EXTINF:-1 tvg-id="" tvg-name="BETEVÉ [Opción 1]" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="ESPAÑA - AUTONOMICOS",BETEVÉ [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/AdanMontes/11122023AM/505207.ts
@@ -91163,18 +91103,12 @@ http://avefenixtv.com/movie/AdanMontes/11122023AM/1314024.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PROMESA AL AMANECER [Opción 1]" tvg-logo="" group-title="DRAMA - (LAT)",PROMESA AL AMANECER [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1313977.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARY Y LA FLOR DE LA HEICERA [Opción 1]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",MARY Y LA FLOR DE LA HEICERA [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/AdanMontes/11122023AM/1313936.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WOODPECKERS [Opción 1]" tvg-logo="" group-title="DRAMA - (LAT)",WOODPECKERS [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1313863.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSTWIND 3 - AUFBRU NA ORA [Opción 1]" tvg-logo="" group-title="FAMILIA - (LAT)",OSTWIND 3 - AUFBRU NA ORA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1313723.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 1]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/AdanMontes/11122023AM/1313458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="RACE TO WIN [Opción 1]" tvg-logo="" group-title="DRAMA - (LAT)",RACE TO WIN [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1313402.mp4
@@ -91286,9 +91220,6 @@ http://avefenixtv.com/movie/AdanMontes/11122023AM/1311546.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL PRECIO DE UN HOMBRE [Opción 1]" tvg-logo="" group-title="DRAMA - (LAT)",EL PRECIO DE UN HOMBRE [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1311499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS [Opción 1]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",LA VIDA SECRETA DE TUS MASCOTAS [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/AdanMontes/11122023AM/1311470.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A PERFECT DAY [Opción 1]" tvg-logo="" group-title="COMEDIA - (LAT)",A PERFECT DAY [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/AdanMontes/11122023AM/1311356.mkv
@@ -136436,9 +136367,6 @@ http://avefenixtv.com/live/Katherine999/Katherine999/235616.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7/4 [Opción 2]" tvg-logo="http://icon.guard447.cyou/logos/LAT_centroamerica/teleceiba7.png" group-title="HONDURAS",TELECADENA 7/4 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/Katherine999/Katherine999/85522.ts
-#EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA [Opción 2]" tvg-logo="https://i.postimg.cc/1XGb8XxJ/2a70705ddc07e03607a83aa87cc440a2-removebg-preview.png" group-title="HONDURAS",HN | TELECEIBA [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/173435.ts
 #EXTINF:-1 tvg-id="" tvg-name="CR - RETRO PALMARES [Opción 2]" tvg-logo="data:image/jpeg;base64,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" group-title="COSTA RICA",CR - RETRO PALMARES [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/Katherine999/Katherine999/256849.ts
@@ -140141,111 +140069,90 @@ http://avefenixtv.com/live/Katherine999/Katherine999/742929.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 7 | [Opción 2]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="⚽LIBERTADORES⚽",LIBERTADORES 7 | [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/Katherine999/Katherine999/742930.ts
-#EXTINF:-1 tvg-id="" tvg-name="02:05 ▫ RUGBY ▫ WELLINGTON VS. NORTH HARBOUR ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/24908ce13bfd3ec802bfc0ba32fc79e8.png" group-title="✨Eventos Diarios 13/08✨",02:05 ▫ RUGBY ▫ WELLINGTON VS. NORTH HARBOUR ▫ ▫▫ [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328250.ts
-#EXTINF:-1 tvg-id="" tvg-name="06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",06:00 ▫ GOLF ▫ DANISH GOLF AMPIONSHIP ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328458.ts
+#EXTINF:-1 tvg-id="" tvg-name="07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328251.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",07:00 ▫ GOLF ▫ FEDEX ST. JUDE AMPIONSHIP: MAIN FEED ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328459.ts
+#EXTINF:-1 tvg-id="" tvg-name="10:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="✮[TENIS / PADEL]✮",10:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328252.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="✮[TENIS / PADEL]✮",10:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328467.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:30 ▫ SEGUNDA UY ▫ CERRITO VS. ORIENTAL ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="✨Eventos Diarios 14/08✨",12:30 ▫ SEGUNDA UY ▫ CERRITO VS. ORIENTAL ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328255.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="✮[TENIS / PADEL]✮",13:00 ▫ TENIS WTA ▫ WTA CINCINNATI OPEN / AMPIONS' COURT ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328483.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="✮[TENIS / PADEL]✮",13:00 ▫ TENIS ATP ▫ CINCINNATI OPEN / AMPIONS' COURT ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328278.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:30 ▫ EUROPA LEAGUE ▫ ANDERLET VS. PAOK ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/f84b0cc2406b6c5c39fe450de296615e.png" group-title="✨Eventos Diarios 13/08✨",13:30 ▫ EUROPA LEAGUE ▫ ANDERLET VS. PAOK ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328487.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:30 ▫ L4L1G4 HYPERMOTION ▫ REAL SOCIEDAD II VS. CD CASTELLON ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/e591b391c98cc53ec4439a3d4fda04c7.png" group-title="✨Eventos Diarios 14/08✨",13:30 ▫ L4L1G4 HYPERMOTION ▫ REAL SOCIEDAD II VS. CD CASTELLON ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328280.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 13/08✨",14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328491.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:45 ▫ LIGUE 2 ▫ ANNECY VS. RODEZ ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/1ea57fd6a9f28f75593fe721198d5c1c.png" group-title="✨Eventos Diarios 14/08✨",13:45 ▫ LIGUE 2 ▫ ANNECY VS. RODEZ ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328281.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ▫ COPA ▫ ASTILLERO VS. DAQUILEMA ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/7a7a64a8b75118fec0cea77f1085b771.png" group-title="✨Eventos Diarios 13/08✨",15:00 ▫ COPA ▫ ASTILLERO VS. DAQUILEMA ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328494.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ AMPIONSHIP ▫ WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/01c81308522327b0b7ecdeb6bdc7bf9c.png" group-title="✨Eventos Diarios 14/08✨",14:00 ▫ AMPIONSHIP ▫ WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328287.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ FÚTBOL FEMENINO NCAA ▫ OLD DOMINION VS. VIRGINIA TE ▫ ▫▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/cabc4cd0470427a2dbfce781a5360bff.png" group-title="✨Eventos Diarios 13/08✨",17:00 ▫ FÚTBOL FEMENINO NCAA ▫ OLD DOMINION VS. VIRGINIA TE ▫ ▫▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328504.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="✨Eventos Diarios 14/08✨",14:00 ▫ GOLF ▫ 2026 U.S. AMATEUR GOLF AMPIONSHIP ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328297.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ▫ WNBA ▫ ATLANTA DREAM VS. CONNECTICUT SUN ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="✨Eventos Diarios 13/08✨",18:00 ▫ WNBA ▫ ATLANTA DREAM VS. CONNECTICUT SUN ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328505.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30 ▫ PRIMERA PY ▫ DEPORTIVO RECOLETA VS. 2 DE MAYO ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="✨Eventos Diarios 14/08✨",16:30 ▫ PRIMERA PY ▫ DEPORTIVO RECOLETA VS. 2 DE MAYO ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328303.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ LEAGUES CUP ▫ NEW YORK CITY VS. NECAXA ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="✨Eventos Diarios 13/08✨",18:30 ▫ LEAGUES CUP ▫ NEW YORK CITY VS. NECAXA ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328510.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ BRASIL B ▫ SPORT RECIFE VS. LONDRINA ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/1b54d26c8eab60d02111544cb5d9df47.png" group-title="✨Eventos Diarios 14/08✨",18:30 ▫ BRASIL B ▫ SPORT RECIFE VS. LONDRINA ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328305.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ MLB ▫ PHILADELPHIA PHILLIES VS. MINNESOTA TWINS ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios 13/08✨",18:30 ▫ MLB ▫ PHILADELPHIA PHILLIES VS. MINNESOTA TWINS ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328529.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ WNBA ▫ DALLAS WINGS VS INDIANA FEVER ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="✨Eventos Diarios 14/08✨",18:30 ▫ WNBA ▫ DALLAS WINGS VS INDIANA FEVER ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328306.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LMB ▫ PIRATAS DE CAMPEE VS. PERICOS DE PUEBLA ▫ ▫ [Opción 2]" tvg-logo="https://i.postimg.cc/V6rst0kn/lmb.png" group-title="✨Eventos Diarios 13/08✨",20:00 ▫ LMB ▫ PIRATAS DE CAMPEE VS. PERICOS DE PUEBLA ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328531.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ LIGA PRO ▫ INDEPENDIENTE DEL VALLE VS. DELFÍN ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/7a7a64a8b75118fec0cea77f1085b771.png" group-title="✨Eventos Diarios 14/08✨",19:00 ▫ LIGA PRO ▫ INDEPENDIENTE DEL VALLE VS. DELFÍN ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328325.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:30 ▫ LMB ▫ OLMECAS DE TABASCO VS. BRAVOS DE LEÓN ▫ ▫ [Opción 2]" tvg-logo="https://i.postimg.cc/V6rst0kn/lmb.png" group-title="✨Eventos Diarios 13/08✨",20:30 ▫ LMB ▫ OLMECAS DE TABASCO VS. BRAVOS DE LEÓN ▫ ▫ [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328532.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ CANADIAN PREMIER LEAGUE ▫ VANCOUVER FC VS. PACIFIC FC ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/bb280426fee015364fe0cd9edec7db16.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ CANADIAN PREMIER LEAGUE ▫ VANCOUVER FC VS. PACIFIC FC ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328327.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:00 | CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 2]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",10:00 | CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328538.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LIGA MX EXPANSION ▫ CORRECAMINOS UAT VS. TAPATÍO CD ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/d0939cd9a88017504640af494080c0b3.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ LIGA MX EXPANSION ▫ CORRECAMINOS UAT VS. TAPATÍO CD ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328341.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 | EN ESPAÑOL: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:00 | EN ESPAÑOL: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328539.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ LIGA MX EXPANSION ▫ MINEROS DE ZACATECAS VS. VENADOS ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/d0939cd9a88017504640af494080c0b3.png" group-title="✨Eventos Diarios 14/08✨",20:00 ▫ LIGA MX EXPANSION ▫ MINEROS DE ZACATECAS VS. VENADOS ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328352.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 2]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",13:00 | CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328540.ts
+#EXTINF:-1 tvg-id="" tvg-name="22:00 ▫ RUGBY ▫ CANTERBURY VS. BAY OF PLENTY ▫ ▫ [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/24908ce13bfd3ec802bfc0ba32fc79e8.png" group-title="✨Eventos Diarios 14/08✨",22:00 ▫ RUGBY ▫ CANTERBURY VS. BAY OF PLENTY ▫ ▫ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328358.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | ENGLISH: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:00 | ENGLISH: AL SHABAB VS. AL QADSIAH | SAUDI PRO LEAGUE [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328552.ts
+#EXTINF:-1 tvg-id="" tvg-name="10:00| CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 2]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",10:00| CINCINNATI OPEN - AMPIONS COURT | WTA TENIS [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328362.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:45 | ANDERLET VS. PAOK FC | UEFA EUROPA LEAGUE [Opción 2]" tvg-logo="https://i.postimg.cc/sgbRz6B5/Copilot-20260122-084651.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:45 | ANDERLET VS. PAOK FC | UEFA EUROPA LEAGUE [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328554.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:30| CERRITO VS. ORIENTAL | SEGUNDA DIVISIÓN DE URUGUAY [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30| CERRITO VS. ORIENTAL | SEGUNDA DIVISIÓN DE URUGUAY [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328365.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:45 | CENTRAL CÓRDOBA VS. INDEPENDIENTE | TORNEO PROYECCIÓN [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | CENTRAL CÓRDOBA VS. INDEPENDIENTE | TORNEO PROYECCIÓN [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328573.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:55| WOLVES VS. BLACKBURN ROVERS | EFL AMPIONSHIP [Opción 2]" tvg-logo="https://i.postimg.cc/gcB2CPG1/24.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:55| WOLVES VS. BLACKBURN ROVERS | EFL AMPIONSHIP [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328370.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:45 | MIRASSOL VS. LDU QUITO - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 2]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol-Libertadores-logo-svg.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:45 | MIRASSOL VS. LDU QUITO - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328575.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00| CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 2]" tvg-logo="https://i.postimg.cc/jSy3sn8y/Cincinnati-Open-Logo-04-One-Color-Alternate-Navy-KO-RGB.png" group-title="✮[TENIS / PADEL]✮",13:00| CINCINNATI OPEN - AMPIONS COURT | ATP TENIS [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328374.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:50 | MACARÁ VS. SANTOS - 8VOS DE FINAL IDA | CONMEBOL SUDAMERICANA [Opción 2]" tvg-logo="https://i.postimg.cc/ZnkHHwBK/sudamericana.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:50 | MACARÁ VS. SANTOS - 8VOS DE FINAL IDA | CONMEBOL SUDAMERICANA [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328577.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:50| WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS | AMPIONSHIP DE INGLATERRA [Opción 2]" tvg-logo="https://i.postimg.cc/gcB2CPG1/24.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:50| WOLVERHAMPTON WANDERERS VS. BLACKBURN ROVERS | AMPIONSHIP DE INGLATERRA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328375.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 | LEAGUES CUP - COUNTDOWN | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:30 | LEAGUES CUP - COUNTDOWN | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328584.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00| COMERCIANTES UNIDOS VS. ATLÉTICO GRAU | LIGA 1 TE APUESTO PERÚ [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",15:00| COMERCIANTES UNIDOS VS. ATLÉTICO GRAU | LIGA 1 TE APUESTO PERÚ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328379.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 | LEAGUES CUP - LA PREVIA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:30 | LEAGUES CUP - LA PREVIA | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328588.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30| BOSTON RIVER VS. DANUBIO | CAMPEONATO URUGUAYO [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:30| BOSTON RIVER VS. DANUBIO | CAMPEONATO URUGUAYO [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328380.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 | EN ESPAÑOL: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00 | EN ESPAÑOL: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328589.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00| JUAN PABLO II COLLEGE VS. CUSCO | LIGA 1 TE APUESTO PERÚ [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00| JUAN PABLO II COLLEGE VS. CUSCO | LIGA 1 TE APUESTO PERÚ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328383.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 | ENGLISH: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00 | ENGLISH: PHILADELPHIA UNIÓN VS. CLUB SANTOS LAGUNA | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328596.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30| RACING VS BANFIELD | LIGA PROFESIONAL ARGENTINA [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30| RACING VS BANFIELD | LIGA PROFESIONAL ARGENTINA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328384.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 | EN ESPAÑOL: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30 | EN ESPAÑOL: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328601.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30| WINGS VS. FEVER | WNBA [Opción 2]" tvg-logo="https://i.postimg.cc/59qqHSj4/WNBA.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30| WINGS VS. FEVER | WNBA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328385.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 | ENGLISH: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:30 | ENGLISH: NEW YORK CITY FC VS. CLUB NECAXA | LEAGUES CUP [Opción 2]
+http://avefenixtv.com/live/Katherine999/Katherine999/1328602.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:50| CORRECAMINOS UAT VS. TAPATÍO CD | LIGA DE EXPANSIÓN MX [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:50| CORRECAMINOS UAT VS. TAPATÍO CD | LIGA DE EXPANSIÓN MX [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328386.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:50 | ALIANZA FC VS. UMECIT FC | CONCACAF CENTRAL AMERICAN CUP [Opción 2]" tvg-logo="https://i.postimg.cc/d0qgKvvr/ccentralamer.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:50 | ALIANZA FC VS. UMECIT FC | CONCACAF CENTRAL AMERICAN CUP [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328387.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | ROSARIO CENTRAL VS. CORINTHIANS - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 2]" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol-Libertadores-logo-svg.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:00 | ROSARIO CENTRAL VS. CORINTHIANS - 8VOS DE FINAL IDA | CONMEBOL LIBERTADORES [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328391.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:50 | ALEBRIJES DE OAXACA VS. TEPATITLÁN FC | LIGA DE EXPANSIÓN MX [Opción 2]" tvg-logo="https://i.postimg.cc/CxK0nkh5/FUTBOL.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:50 | ALEBRIJES DE OAXACA VS. TEPATITLÁN FC | LIGA DE EXPANSIÓN MX [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328393.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | EN ESPAÑOL: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:00 | EN ESPAÑOL: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328395.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | ENGLISH: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:00 | ENGLISH: CRUZ AZUL VS. ICAGO FIRE FC | LEAGUES CUP [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328396.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:30 | EN ESPAÑOL: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",21:30 | EN ESPAÑOL: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328403.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:30 | ENGLISH: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 2]" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",21:30 | ENGLISH: PORTLAND TIMBERS VS. TIJUANA | LEAGUES CUP [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/live/Katherine999/Katherine999/1328404.ts
+http://avefenixtv.com/live/Katherine999/Katherine999/1328607.ts
 #EXTINF:-1 tvg-id="" tvg-name="BETEVÉ [Opción 2]" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="ESPAÑA - AUTONOMICOS",BETEVÉ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/live/Katherine999/Katherine999/505207.ts
@@ -141179,15 +141086,9 @@ http://avefenixtv.com/movie/Katherine999/Katherine999/1314157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MISIÓN SECRETA [Opción 2]" tvg-logo="" group-title="ACCIÓN - (LAT)",MISIÓN SECRETA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/Katherine999/Katherine999/1314024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARY Y LA FLOR DE LA HEICERA [Opción 2]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",MARY Y LA FLOR DE LA HEICERA [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/Katherine999/Katherine999/1313936.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WOODPECKERS [Opción 2]" tvg-logo="" group-title="DRAMA - (LAT)",WOODPECKERS [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/Katherine999/Katherine999/1313863.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 2]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",LA VIDA SECRETA DE TUS MASCOTAS 2 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/Katherine999/Katherine999/1313458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WINDOW HORSES: THE POETIC PERSIAN EPIPHANY OF ROSIE MING [Opción 2]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",WINDOW HORSES: THE POETIC PERSIAN EPIPHANY OF ROSIE MING [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/Katherine999/Katherine999/1313248.mkv
@@ -141263,9 +141164,6 @@ http://avefenixtv.com/movie/Katherine999/Katherine999/1311755.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL PRECIO DE UN HOMBRE [Opción 2]" tvg-logo="" group-title="DRAMA - (LAT)",EL PRECIO DE UN HOMBRE [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/Katherine999/Katherine999/1311499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS [Opción 2]" tvg-logo="" group-title="ANIMACIÓN - (LAT)",LA VIDA SECRETA DE TUS MASCOTAS [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://avefenixtv.com/movie/Katherine999/Katherine999/1311470.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MILES AHEAD: SECRETOS DE UNA LEYENDA [Opción 2]" tvg-logo="" group-title="DRAMA - (LAT)",MILES AHEAD: SECRETOS DE UNA LEYENDA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://avefenixtv.com/movie/Katherine999/Katherine999/1311267.mp4
