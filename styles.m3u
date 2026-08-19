@@ -4892,12 +4892,21 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/558507
 #EXTINF:-1 tvg-id="" tvg-name="⭐️ OP5 [Opción 1]" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP5 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/558508
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA DE LA JUSTICIA DE ZACK SNYDER [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8acecc9dded80ee3d919efe5b0a80096.jpg" group-title="⭐️Dc Universe",LA LIGA DE LA JUSTICIA DE ZACK SNYDER [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/558526.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AMERICAN PIE 2: TU SEGUNDA VEZ ES MEJOR [Opción 1]" tvg-logo="http://redworld.pro:8880/images/06266a938eca05969feb3a79498a1a3b.jpg" group-title="⭐️Saga American Pie",AMERICAN PIE 2: TU SEGUNDA VEZ ES MEJOR [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/558534.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AMERICAN PIE 8: EL REENCUENTRO [Opción 1]" tvg-logo="http://redworld.pro:8880/images/735c980bdbecdafdaf9bde859f575b7e.jpg" group-title="⭐️Saga American Pie",AMERICAN PIE 8: EL REENCUENTRO [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/558535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: EL DESPERTAR DE LA FUERZA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6620be9d25029ec848e2cc97aa79eb1a.jpg" group-title="⭐️Saga Star Wars",STAR WARS: EL DESPERTAR DE LA FUERZA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/558551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: LOS ÚLTIMOS JEDI [Opción 1]" tvg-logo="http://redworld.pro:8880/images/692fbb33f986c321d13dee09012bec74.jpg" group-title="⭐️Saga Star Wars",STAR WARS: LOS ÚLTIMOS JEDI [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/558552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -47003,9 +47012,6 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/557734.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA LEYENDA DE LADYDRAGÓN \ [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f41ee5658c014ffa425089c7260ecbb5.jpg" group-title="⭐️Películas 2021",LA LEYENDA DE LADYDRAGÓN \ [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/557735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA DE LA JUSTICIA DE ZACK SNYDER [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8acecc9dded80ee3d919efe5b0a80096.jpg" group-title="⭐️Películas 2021",LA LIGA DE LA JUSTICIA DE ZACK SNYDER [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/557736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA MUJER EN LA VENTANA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e8d899f3149a31ee64701dbe334ec412.jpg" group-title="⭐️Películas 2021",LA MUJER EN LA VENTANA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/557739.mkv
@@ -47324,6 +47330,12 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/558534.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AMERICAN PIE 8: EL REENCUENTRO [Opción 2]" tvg-logo="http://redworld.pro:8880/images/735c980bdbecdafdaf9bde859f575b7e.jpg" group-title="⭐️Saga American Pie",AMERICAN PIE 8: EL REENCUENTRO [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/558535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: EL DESPERTAR DE LA FUERZA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6620be9d25029ec848e2cc97aa79eb1a.jpg" group-title="⭐️Saga Star Wars",STAR WARS: EL DESPERTAR DE LA FUERZA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/558551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: LOS ÚLTIMOS JEDI [Opción 2]" tvg-logo="http://redworld.pro:8880/images/692fbb33f986c321d13dee09012bec74.jpg" group-title="⭐️Saga Star Wars",STAR WARS: LOS ÚLTIMOS JEDI [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/558552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
