@@ -5699,7 +5699,7 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/561470.mp4
 #EXTINF:-1 tvg-id="" tvg-name="*Ə$*PN 3 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə$*PN 3 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/561487
-#EXTINF:-1 tvg-id="" tvg-name="$.Š.P.N 5 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="LIGA DE CAMPEONES 2026/27",$.Š.P.N 5 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="*Ə*$P*N 5 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə*$P*N 5 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/561489
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
@@ -44798,6 +44798,30 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="COLISIÓN S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e700f4f3a79800e8532d80bf7e55c0d4.jpg" group-title="⭐️ Series HBO ",COLISIÓN S01 E04 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8878245b278336bb4798e1e544bdefb8.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/798c91aa1304bc91f864382afa32fdeb.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2b0a4696c968c6e7340dcf2ff730413d.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/b19cc559fabdb0bcfb2708ebca967d90.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4a8526494581bfb806914c9232bd56eb.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d920e705a089ff7591a58e09be82643a.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S02 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2640dea7d100a8b450f7d24d2cc17e91.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S02 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S02 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/52756812858f412372371fd473d17e91.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S02 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/561508.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -49388,7 +49412,7 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/561367.mkv
 #EXTINF:-1 tvg-id="" tvg-name="N121: ULTIMA PARADA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/0c3509539ec57aad0a2d0a1324ecf20f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",N121: ULTIMA PARADA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/561470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="$.Š.P.N 5 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="LIGA DE CAMPEONES 2026/27",$.Š.P.N 5 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="*Ə*$P*N 5 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə*$P*N 5 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/561489
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
@@ -88199,3 +88223,27 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="COLISIÓN S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e700f4f3a79800e8532d80bf7e55c0d4.jpg" group-title="⭐️ Series HBO ",COLISIÓN S01 E04 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8878245b278336bb4798e1e544bdefb8.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/798c91aa1304bc91f864382afa32fdeb.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2b0a4696c968c6e7340dcf2ff730413d.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/b19cc559fabdb0bcfb2708ebca967d90.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4a8526494581bfb806914c9232bd56eb.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E05 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S01 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d920e705a089ff7591a58e09be82643a.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S01 E06 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S02 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2640dea7d100a8b450f7d24d2cc17e91.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S02 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MADE IN KOREA S02 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/52756812858f412372371fd473d17e91.jpg" group-title="⭐️ Series Disney ",MADE IN KOREA S02 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/561508.mp4
