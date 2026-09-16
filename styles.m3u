@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fox.cl" tvg-name="RTS [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",RTS [Opción 1]
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="RTS [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",RTS [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/120545
 #EXTINF:-1 tvg-id="" tvg-name="RTS [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",RTS [Opción 2]
@@ -44,6 +44,9 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/166798
 #EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [Opción 1]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/167725
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="D3PØRT3S | $ŠPN-4 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/167726
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="DEPORTES | D GAMES + [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES + [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/167732
@@ -45248,6 +45251,9 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166798
 #EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [Opción 2]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/167725
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="D3PØRT3S | $ŠPN-4 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/167726
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="DEPORTES | D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/167732
