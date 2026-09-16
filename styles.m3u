@@ -113,6 +113,9 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/321981
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | NICKELODEON [Opción 1]" tvg-logo="http://redworld.pro:8880/images/5a9d428b61a7941c724e7c16747e0390.png" group-title="⭐️ Infantiles",KIDS | NICKELODEON [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/321984
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="AR | $ŠPN-1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/327914
 #EXTINF:-1 tvg-id="" tvg-name="AR | [Opción 1]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ Deporte Argentina",AR | [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/327916
@@ -45293,6 +45296,9 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/321981
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | NICKELODEON [Opción 2]" tvg-logo="http://redworld.pro:8880/images/5a9d428b61a7941c724e7c16747e0390.png" group-title="⭐️ Infantiles",KIDS | NICKELODEON [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/321984
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="AR | $ŠPN-1 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/327914
 #EXTINF:-1 tvg-id="" tvg-name="AR | [Opción 2]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ Deporte Argentina",AR | [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/327916
