@@ -5741,6 +5741,9 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/562472
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d3688659f7ce2c8d53ffad4f09259ceb.png" group-title="⭐️ NFL Exclusivo ⭐️ ",ESPN 2 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/562473
+#EXTINF:-1 tvg-id="" tvg-name="LA ÚLTIMA BALA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8d27f552dc7ecaef424ffde37f0f27ed.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LA ÚLTIMA BALA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/562669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -45920,6 +45923,36 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="9-1-1 S09 E18 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/a7f65d54674723d5b7a5ef82a52b9272.jpg" group-title="⭐️ Series Disney ",9-1-1 S09 E18 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK MIRROR S03 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/42679151bc3c67a04d1179b6ec3932fa.jpg" group-title="⭐️ Series Netflix ",BLACK MIRROR S03 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK MIRROR S07 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/f00ecf06508316eb3a03b6598e6d4e75.jpg" group-title="⭐️ Series Netflix ",BLACK MIRROR S07 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E07 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E08 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562668.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -50558,6 +50591,9 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/562472
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d3688659f7ce2c8d53ffad4f09259ceb.png" group-title="⭐️ NFL Exclusivo ⭐️ ",ESPN 2 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/562473
+#EXTINF:-1 tvg-id="" tvg-name="LA ÚLTIMA BALA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8d27f552dc7ecaef424ffde37f0f27ed.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LA ÚLTIMA BALA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/562669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
@@ -90443,3 +90479,33 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="9-1-1 S09 E18 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/a7f65d54674723d5b7a5ef82a52b9272.jpg" group-title="⭐️ Series Disney ",9-1-1 S09 E18 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK MIRROR S03 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/42679151bc3c67a04d1179b6ec3932fa.jpg" group-title="⭐️ Series Netflix ",BLACK MIRROR S03 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK MIRROR S07 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/f00ecf06508316eb3a03b6598e6d4e75.jpg" group-title="⭐️ Series Netflix ",BLACK MIRROR S07 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E05 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E06 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E07 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E07 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINERVA - LA SCUOLA S01 E08 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/dd7f1b169fec60faa9af0e579904b73d.jpg" group-title="⭐️ Series Netflix ",MINERVA - LA SCUOLA S01 E08 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562668.mp4
