@@ -46130,6 +46130,12 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL RESCATE DE LOS MINEROS ILENOS: CARRERA CONTRA EL TIEMPO S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d8569c700b90e5404ff5725466902d14.jpg" group-title="⭐️ Series Disney ",EL RESCATE DE LOS MINEROS ILENOS: CARRERA CONTRA EL TIEMPO S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUARDAESPALDAS K2 S01 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/23f87a72ca58393eca2d096ccd841473.jpg" group-title="⭐️ Doramas",GUARDAESPALDAS K2 S01 E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUARDAESPALDAS K2 S01 E08 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/01d0f6ad630749d22d9415a49aeca9f1.jpg" group-title="⭐️ Doramas",GUARDAESPALDAS K2 S01 E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563064.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -90863,3 +90869,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL RESCATE DE LOS MINEROS ILENOS: CARRERA CONTRA EL TIEMPO S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d8569c700b90e5404ff5725466902d14.jpg" group-title="⭐️ Series Disney ",EL RESCATE DE LOS MINEROS ILENOS: CARRERA CONTRA EL TIEMPO S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUARDAESPALDAS K2 S01 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/23f87a72ca58393eca2d096ccd841473.jpg" group-title="⭐️ Doramas",GUARDAESPALDAS K2 S01 E05 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUARDAESPALDAS K2 S01 E08 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/01d0f6ad630749d22d9415a49aeca9f1.jpg" group-title="⭐️ Doramas",GUARDAESPALDAS K2 S01 E08 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563064.mp4
