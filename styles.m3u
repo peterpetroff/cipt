@@ -5780,6 +5780,12 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/563774
 #EXTINF:-1 tvg-id="" tvg-name="CR | FOX + | OP1 [Opción 1]" tvg-logo="https://i.ibb.co/Mkj3DY99/Whats-App-Image-2026-05-19-at-12-58-41-PM.jpg" group-title="⭐️ DEPORTE COSTA RICA",CR | FOX + | OP1 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/563777
+#EXTINF:-1 tvg-id="" tvg-name="LA NEGOCIACIÓN [Opción 1]" tvg-logo="http://redworld.pro:8880/images/52386fc0ec2efd2b71253b07c7d54e37.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LA NEGOCIACIÓN [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/563791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NINJA WARS: BLACKFOX VS SHOGUN'S NINJA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c88689b87d93f929ea131dd701a837ba.jpg" group-title="⭐️ Estrenos 2026 ⭐️",NINJA WARS: BLACKFOX VS SHOGUN'S NINJA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/563796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -7616,22 +7622,22 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/462899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E16 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/a80a91b130eec17abcbad08d35e44fce.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E16 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E19 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/182914d7144f04aec67704d36d299ed2.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E19 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E20 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/182914d7144f04aec67704d36d299ed2.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E20 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E25 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/47b471cf71bec51c3518885cea6c0155.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E25 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E26 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/47b471cf71bec51c3518885cea6c0155.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E26 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E29 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/7ba3300724053b3085b5baaec1e08b99.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E29 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E30 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/7ba3300724053b3085b5baaec1e08b99.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E30 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E47 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ee9ec5090ae328b2223c4b9319d58b24.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E47 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E48 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ee9ec5090ae328b2223c4b9319d58b24.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E48 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E63 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c7f9ec4de34a1582eb61c12bf834c3fd.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E63 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E75 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fc7242dec5f0c2911034532983ba70aa.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E75 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E76 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/fc7242dec5f0c2911034532983ba70aa.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E76 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526752.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E87 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/eca480f05e5894dd9254d83d25b4ffe0.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E87 [Opción 1]
@@ -7643,7 +7649,7 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E96 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/03778e5ecbaae0c0c74dbf51c8768edc.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E96 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E104 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3eca47ce2fbf5d09d8e4568b20900691.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E104 [Opción 1]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E103 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3eca47ce2fbf5d09d8e4568b20900691.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E103 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/526766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E116 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/579687d5ac406175823587da3ecd30b0.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E116 [Opción 1]
@@ -46988,6 +46994,15 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LEGO ONE PIECE S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6d8e2f15c72e8a776d1b94dc387df3b1.jpg" group-title="⭐️ Series Netflix ",LEGO ONE PIECE S01 E02 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/79c6e83a91ccca84d1ec31087874a717.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/62f55ce63e34308cf7cecfaca30c14e1.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/17fac5875bfec90203b5d65fc7d81b41.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563786.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -51665,6 +51680,12 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/563774
 #EXTINF:-1 tvg-id="" tvg-name="CR | FOX + | OP1 [Opción 2]" tvg-logo="https://i.ibb.co/Mkj3DY99/Whats-App-Image-2026-05-19-at-12-58-41-PM.jpg" group-title="⭐️ DEPORTE COSTA RICA",CR | FOX + | OP1 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/563777
+#EXTINF:-1 tvg-id="" tvg-name="LA NEGOCIACIÓN [Opción 2]" tvg-logo="http://redworld.pro:8880/images/52386fc0ec2efd2b71253b07c7d54e37.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LA NEGOCIACIÓN [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/563791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NINJA WARS: BLACKFOX VS SHOGUN'S NINJA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c88689b87d93f929ea131dd701a837ba.jpg" group-title="⭐️ Estrenos 2026 ⭐️",NINJA WARS: BLACKFOX VS SHOGUN'S NINJA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/563796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
@@ -53501,22 +53522,22 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/462899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E16 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/a80a91b130eec17abcbad08d35e44fce.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E16 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E19 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/182914d7144f04aec67704d36d299ed2.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E19 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E20 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/182914d7144f04aec67704d36d299ed2.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E20 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E25 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/47b471cf71bec51c3518885cea6c0155.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E25 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E26 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/47b471cf71bec51c3518885cea6c0155.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E26 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E29 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/7ba3300724053b3085b5baaec1e08b99.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E29 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E30 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/7ba3300724053b3085b5baaec1e08b99.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E30 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E47 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ee9ec5090ae328b2223c4b9319d58b24.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E47 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E48 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ee9ec5090ae328b2223c4b9319d58b24.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E48 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E63 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c7f9ec4de34a1582eb61c12bf834c3fd.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E63 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E75 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/fc7242dec5f0c2911034532983ba70aa.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E75 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E76 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/fc7242dec5f0c2911034532983ba70aa.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E76 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526752.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E87 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/eca480f05e5894dd9254d83d25b4ffe0.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E87 [Opción 2]
@@ -53528,7 +53549,7 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E96 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/03778e5ecbaae0c0c74dbf51c8768edc.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E96 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E104 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3eca47ce2fbf5d09d8e4568b20900691.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E104 [Opción 2]
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E103 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3eca47ce2fbf5d09d8e4568b20900691.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E103 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/526766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS S01 E116 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/579687d5ac406175823587da3ecd30b0.jpg" group-title="⭐️ Series Narcos",EL SEÑOR DE LOS CIELOS S01 E116 [Opción 2]
@@ -92579,3 +92600,12 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LEGO ONE PIECE S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6d8e2f15c72e8a776d1b94dc387df3b1.jpg" group-title="⭐️ Series Netflix ",LEGO ONE PIECE S01 E02 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/79c6e83a91ccca84d1ec31087874a717.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/62f55ce63e34308cf7cecfaca30c14e1.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL ESTE DEL EDÉN S01 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/17fac5875bfec90203b5d65fc7d81b41.jpg" group-title="⭐️ Series Netflix ",AL ESTE DEL EDÉN S01 E06 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563786.mp4
