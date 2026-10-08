@@ -929,7 +929,7 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533401
 #EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX [Opción 1]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533403
-#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX [Opción 2]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 2]
+#EXTINF:-1 tvg-id="l1max.pe" tvg-name="PE | *LIGA 1 MAX [Opción 2]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533404
 #EXTINF:-1 tvg-id="lch7216" tvg-name="PE | *LIGA 1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 [Opción 1]
@@ -5777,6 +5777,9 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564031.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LEGEND OF THE WHITE DRAGON [Opción 1]" tvg-logo="http://redworld.pro:8880/images/610265a005ad11ecfb5b2241bc9dc6e6.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LEGEND OF THE WHITE DRAGON [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RICOS SIN DINERO [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6b543ec87411594c27d87804cd57811d.jpg" group-title="⭐️ Estrenos 2026 ⭐️",RICOS SIN DINERO [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564179.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -46190,6 +46193,9 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LOKI S02 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8aaec8af142ac7a81f15c736d3cf6c06.jpg" group-title="⭐️ Series Disney ",LOKI S02 E06 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IRREMPLAZABLE S01 E15 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e2ec12752a80352fa5b794307d61363f.jpg" group-title="⭐️ Series Netflix ",IRREMPLAZABLE S01 E15 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JOJO'S BIZARRE ADVENTURE S01 E11 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/26b48c4a26fe7747ba43300fb541d4ec.jpg" group-title="⭐️ Series Netflix ",JOJO'S BIZARRE ADVENTURE S01 E11 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563164.mp4
@@ -47120,6 +47126,36 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564143.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL CÍRCULO S01 E07 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3788f7bb6e036c5e84a9e734e2d09ecd.jpg" group-title="⭐️ Series Netflix ",EL CÍRCULO S01 E07 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/99552a2dd53e03611bc6fc22f3530ad1.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ee237cbba0a6ef650c1a703cba016977.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/753744f0fec398fc81d40d22ef399005.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/0bb9c1ed35fc598125b8e58f12715a70.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d02771a125ec7e94ef6fb24e353552d9.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/a88bf9a286199e38ebf575db6c33a3b4.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/1603f72f63c862d947ad7c169b59ff0a.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/cd78e149d727630f32970fb921d21beb.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/1b60cacc0f6d77aa16debdf882b4d63e.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/0ba631858a9733665dd049239afe0752.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564169.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -51794,6 +51830,9 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564031.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LEGEND OF THE WHITE DRAGON [Opción 2]" tvg-logo="http://redworld.pro:8880/images/610265a005ad11ecfb5b2241bc9dc6e6.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LEGEND OF THE WHITE DRAGON [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RICOS SIN DINERO [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6b543ec87411594c27d87804cd57811d.jpg" group-title="⭐️ Estrenos 2026 ⭐️",RICOS SIN DINERO [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564179.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
@@ -91913,6 +91952,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LOKI S02 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8aaec8af142ac7a81f15c736d3cf6c06.jpg" group-title="⭐️ Series Disney ",LOKI S02 E06 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IRREMPLAZABLE S01 E15 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e2ec12752a80352fa5b794307d61363f.jpg" group-title="⭐️ Series Netflix ",IRREMPLAZABLE S01 E15 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JOJO'S BIZARRE ADVENTURE S01 E11 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/26b48c4a26fe7747ba43300fb541d4ec.jpg" group-title="⭐️ Series Netflix ",JOJO'S BIZARRE ADVENTURE S01 E11 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563164.mp4
@@ -92843,3 +92885,33 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564143.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL CÍRCULO S01 E07 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3788f7bb6e036c5e84a9e734e2d09ecd.jpg" group-title="⭐️ Series Netflix ",EL CÍRCULO S01 E07 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/99552a2dd53e03611bc6fc22f3530ad1.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ee237cbba0a6ef650c1a703cba016977.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/753744f0fec398fc81d40d22ef399005.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/0bb9c1ed35fc598125b8e58f12715a70.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d02771a125ec7e94ef6fb24e353552d9.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/a88bf9a286199e38ebf575db6c33a3b4.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/1603f72f63c862d947ad7c169b59ff0a.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/cd78e149d727630f32970fb921d21beb.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/1b60cacc0f6d77aa16debdf882b4d63e.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E05 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/0ba631858a9733665dd049239afe0752.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564169.mp4
