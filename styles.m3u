@@ -914,9 +914,6 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/522035
 #EXTINF:-1 tvg-id="" tvg-name="GUA | AZTECA GUATE [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="⭐️ Guatemala",GUA | AZTECA GUATE [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533359
-#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="PE*| E$PN 1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTES PE",PE*| E$PN 1 [Opción 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533395
 #EXTINF:-1 tvg-id="lch2776" tvg-name="PE*| €SPN* 3 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTES PE",PE*| €SPN* 3 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533398
@@ -929,7 +926,7 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533401
 #EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX [Opción 1]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533403
-#EXTINF:-1 tvg-id="l1max.pe" tvg-name="PE | *LIGA 1 MAX [Opción 2]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 2]
+#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX [Opción 2]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/533404
 #EXTINF:-1 tvg-id="lch7216" tvg-name="PE | *LIGA 1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 [Opción 1]
@@ -5846,6 +5843,12 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564217
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES [Opción 2]" tvg-logo="https://play-lh.googleusercontent.com/dxHdeoo6oISz6n9P13D41NNI57hEr3PP23DJhGmvmmm913OQZ0JEWS_xbERTxK0PNQs" group-title="⭐️Deportes México",AZTECA DEPORTES [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564219
+#EXTINF:-1 tvg-id="" tvg-name="SOLO NECESITAS MATAR [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ab9b52d060964a0a55a02581ef70ffc7.jpg" group-title="⭐️ Estrenos 2026 ⭐️",SOLO NECESITAS MATAR [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MATBOX: LA PELÍCULA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/cfcb92621434729a08d37e90c3c91891.jpg" group-title="⭐️ Estrenos 2026 ⭐️",MATBOX: LA PELÍCULA [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564304.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -14135,6 +14138,9 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/478370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL HOTEL EMBRUJADO S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8ecc2931ffb773530b02444a5f86ea57.jpg" group-title="⭐️ Series Netflix ",EL HOTEL EMBRUJADO S01 E04 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/478374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL HOTEL EMBRUJADO S02 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/287b94808a1e38200e0eccca808d418b.jpg" group-title="⭐️ Series Netflix ",EL HOTEL EMBRUJADO S02 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564274.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL JUEGO DE LA MUERTE S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/89e16f855957a1d5d93c20ce5dd337ec.jpg" group-title="⭐️ Series Netflix ",EL JUEGO DE LA MUERTE S01 E02 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/478388.mp4
@@ -45632,6 +45638,9 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TIERRA DE MAFIA S02 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2fd8da7c8a1dffd8cff555f8d6b50b10.jpg" group-title="⭐️ Series Paramount",TIERRA DE MAFIA S02 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIERRA DE MAFIA S02 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3fad1a70954ea1e00e398165276ea357.jpg" group-title="⭐️ Series Paramount",TIERRA DE MAFIA S02 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564301.mp4
 #EXTINF:-1 tvg-id="" tvg-name="YOUTH S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/5ef75cb5d7fab15c046660804dc8a865.jpg" group-title="⭐️ Series HBO ",YOUTH S01 E01 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/562489.mp4
@@ -47084,6 +47093,9 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TOUGEN ANKI S01 E23 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/48d5ec46e9dcfc970d5262a6d1b64390.jpg" group-title="⭐️ Series Netflix ",TOUGEN ANKI S01 E23 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOUGEN ANKI S02 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c80e90c33bb0a0ecf7c82241a86347de.jpg" group-title="⭐️ Series Netflix ",TOUGEN ANKI S02 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564271.mp4
 #EXTINF:-1 tvg-id="" tvg-name="REINA ROJA S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/8923f53abe9b473ec2ef400bcf0ba27f.jpg" group-title="⭐️ Series Amazon ",REINA ROJA S01 E04 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/563888.mp4
@@ -47222,6 +47234,63 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/0ba631858a9733665dd049239afe0752.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4f366d1eff4830adfe61af4b2df1c4a1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/ed806b9d61e07cc17a1d9eaed345520b.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/501ab7031584aa338267a303f1ebd8c1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/54968b3244ea27656b89d74b512995e3.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E05 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/2337f3cc85f7118625d6dcd47f3e94e1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E05 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E06 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/69918f3f1db090e5ca3e652c14f5e09f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E06 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E07 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/1c8eb1625b9d1574725ba22e07645044.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E07 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E08 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/940f841b7e365382f46ef71a21ed7074.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E08 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E09 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/822e1aa5db74f47a798384fbe84c8cf7.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E09 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E10 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/75901ab951ee96f04d23a2f17691696f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E11 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c2b370a2178f25f133052034941433ca.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E11 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E12 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d6da29d86b4a0b1d42592604c3c1619a.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E12 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E13 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/3f1a53fb44bbd6b780a697da56ef695f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E13 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S02 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/043e15d33671bfafd0ec31bae9cf09f4.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S02 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISPA DEL AMOR S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4ec83509decfc427333cf4cfb7a86607.jpg" group-title="⭐️ Series Netflix ",LA ISPA DEL AMOR S01 E04 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISPA DEL AMOR S01 E10 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/d2da8f84ecfa3e66f4a131dbb32362ad.jpg" group-title="⭐️ Series Netflix ",LA ISPA DEL AMOR S01 E10 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/6d51ca5a0515277d644d27ae073e6230.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/26e1bb6bd1cd61de361da2f8d6958c3c.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/316b37b42333f021c7523beb4a9862a1.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E03 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564300.mp4
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/120548
@@ -47912,9 +47981,6 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/522014
 #EXTINF:-1 tvg-id="" tvg-name="GUA | AZTECA GUATE [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="⭐️ Guatemala",GUA | AZTECA GUATE [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/533359
-#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="PE*| E$PN 1 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTES PE",PE*| E$PN 1 [Opción 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/533395
 #EXTINF:-1 tvg-id="lch2776" tvg-name="PE*| €SPN* 3 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTES PE",PE*| €SPN* 3 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/533398
@@ -51941,6 +52007,12 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564214
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 MX OP1 [Opción 2]" tvg-logo="http://127.0.0.1/" group-title="⭐️Deportes México",ESPN 4 MX OP1 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564217
+#EXTINF:-1 tvg-id="" tvg-name="SOLO NECESITAS MATAR [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ab9b52d060964a0a55a02581ef70ffc7.jpg" group-title="⭐️ Estrenos 2026 ⭐️",SOLO NECESITAS MATAR [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MATBOX: LA PELÍCULA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/cfcb92621434729a08d37e90c3c91891.jpg" group-title="⭐️ Estrenos 2026 ⭐️",MATBOX: LA PELÍCULA [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564304.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
@@ -60149,6 +60221,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/478370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL HOTEL EMBRUJADO S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8ecc2931ffb773530b02444a5f86ea57.jpg" group-title="⭐️ Series Netflix ",EL HOTEL EMBRUJADO S01 E04 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/478374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL HOTEL EMBRUJADO S02 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/287b94808a1e38200e0eccca808d418b.jpg" group-title="⭐️ Series Netflix ",EL HOTEL EMBRUJADO S02 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564274.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EL JUEGO DE LA MUERTE S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/89e16f855957a1d5d93c20ce5dd337ec.jpg" group-title="⭐️ Series Netflix ",EL JUEGO DE LA MUERTE S01 E02 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/478388.mp4
@@ -91433,6 +91508,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TIERRA DE MAFIA S02 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2fd8da7c8a1dffd8cff555f8d6b50b10.jpg" group-title="⭐️ Series Paramount",TIERRA DE MAFIA S02 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIERRA DE MAFIA S02 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3fad1a70954ea1e00e398165276ea357.jpg" group-title="⭐️ Series Paramount",TIERRA DE MAFIA S02 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564301.mp4
 #EXTINF:-1 tvg-id="" tvg-name="YOUTH S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/5ef75cb5d7fab15c046660804dc8a865.jpg" group-title="⭐️ Series HBO ",YOUTH S01 E01 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/562489.mp4
@@ -92885,6 +92963,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TOUGEN ANKI S01 E23 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/48d5ec46e9dcfc970d5262a6d1b64390.jpg" group-title="⭐️ Series Netflix ",TOUGEN ANKI S01 E23 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOUGEN ANKI S02 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c80e90c33bb0a0ecf7c82241a86347de.jpg" group-title="⭐️ Series Netflix ",TOUGEN ANKI S02 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564271.mp4
 #EXTINF:-1 tvg-id="" tvg-name="REINA ROJA S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/8923f53abe9b473ec2ef400bcf0ba27f.jpg" group-title="⭐️ Series Amazon ",REINA ROJA S01 E04 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/563888.mp4
@@ -93023,3 +93104,60 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/0ba631858a9733665dd049239afe0752.jpg" group-title="⭐️ Series Disney ",VAMPIRINA: UNA VAMPIRINA ADOLESCENTE S02 E06 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4f366d1eff4830adfe61af4b2df1c4a1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/ed806b9d61e07cc17a1d9eaed345520b.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/501ab7031584aa338267a303f1ebd8c1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/54968b3244ea27656b89d74b512995e3.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E05 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/2337f3cc85f7118625d6dcd47f3e94e1.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E05 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/69918f3f1db090e5ca3e652c14f5e09f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E06 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E07 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/1c8eb1625b9d1574725ba22e07645044.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E07 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E08 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/940f841b7e365382f46ef71a21ed7074.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E08 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E09 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/822e1aa5db74f47a798384fbe84c8cf7.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E09 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E10 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/75901ab951ee96f04d23a2f17691696f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E10 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E11 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c2b370a2178f25f133052034941433ca.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E11 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E12 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d6da29d86b4a0b1d42592604c3c1619a.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E12 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E13 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/3f1a53fb44bbd6b780a697da56ef695f.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S01 E13 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MARSHALS: UNA HISTORIA DE YELLOWSTONE S02 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/043e15d33671bfafd0ec31bae9cf09f4.jpg" group-title="⭐️ Series Paramount",MARSHALS: UNA HISTORIA DE YELLOWSTONE S02 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISPA DEL AMOR S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4ec83509decfc427333cf4cfb7a86607.jpg" group-title="⭐️ Series Netflix ",LA ISPA DEL AMOR S01 E04 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISPA DEL AMOR S01 E10 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/d2da8f84ecfa3e66f4a131dbb32362ad.jpg" group-title="⭐️ Series Netflix ",LA ISPA DEL AMOR S01 E10 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/6d51ca5a0515277d644d27ae073e6230.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/26e1bb6bd1cd61de361da2f8d6958c3c.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: LOS SIETE REFUGIOS S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/316b37b42333f021c7523beb4a9862a1.jpg" group-title="⭐️ Series Paramount",AVATAR: LOS SIETE REFUGIOS S01 E03 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564300.mp4
