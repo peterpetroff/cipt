@@ -6773,6 +6773,9 @@ http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564632
 #EXTINF:-1 tvg-id="" tvg-name="L 3CDF OP 02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/9804bdae5c523034d462a7118e5d11fb.png" group-title="⭐️ Deporte Ecuador",L 3CDF OP 02 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564635
+#EXTINF:-1 tvg-id="" tvg-name="13 Dias,13 NOES [Opción 1]" tvg-logo="http://redworld.pro:8880/images/03b039f15ff4ec6c1473299052ecf9f3.jpg" group-title="⭐️Películas 2025 ",13 Dias,13 NOES [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -53786,6 +53789,9 @@ http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564632
 #EXTINF:-1 tvg-id="" tvg-name="L 3CDF OP 02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/9804bdae5c523034d462a7118e5d11fb.png" group-title="⭐️ Deporte Ecuador",L 3CDF OP 02 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564635
+#EXTINF:-1 tvg-id="" tvg-name="13 Dias,13 NOES [Opción 2]" tvg-logo="http://redworld.pro:8880/images/03b039f15ff4ec6c1473299052ecf9f3.jpg" group-title="⭐️Películas 2025 ",13 Dias,13 NOES [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
