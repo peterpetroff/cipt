@@ -48233,6 +48233,12 @@ http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TYSON S01 E04 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/4830c99792ecc5c1fbb1930fe15ece00.jpg" group-title="⭐️ Series Netflix ",TYSON S01 E04 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VISIONQUEST S01 E01 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/7551b8e7fd2ab32e0826c1199fc107d3.jpg" group-title="⭐️ Series Disney ",VISIONQUEST S01 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VISIONQUEST S01 E02 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/219e44d4a4e13840cc52fda832c5b5ac.jpg" group-title="⭐️ Series Disney ",VISIONQUEST S01 E02 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/564933.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RADIO ARAUCANA [Opción 2]" tvg-logo="http://goldfull.pro:8880/images/28549c31aec3e6498877bf73a10e53f4.png" group-title="⭐️ RADIOS CHILE",RADIO ARAUCANA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/166714
@@ -94967,3 +94973,9 @@ http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TYSON S01 E04 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/4830c99792ecc5c1fbb1930fe15ece00.jpg" group-title="⭐️ Series Netflix ",TYSON S01 E04 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VISIONQUEST S01 E01 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/7551b8e7fd2ab32e0826c1199fc107d3.jpg" group-title="⭐️ Series Disney ",VISIONQUEST S01 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VISIONQUEST S01 E02 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/219e44d4a4e13840cc52fda832c5b5ac.jpg" group-title="⭐️ Series Disney ",VISIONQUEST S01 E02 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/564933.mp4
