@@ -6749,6 +6749,15 @@ http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 1]" tvg-logo="http://redworld.pro:8880/images/14e2937a34e5fcd34eea3f9ef49aab8f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/HL7E9qP8Y3QN/7GJLRjZnjck8/564880.mp4
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="D3PORT3S | DEGO 1 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO 1 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564938
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="D3PORT3S | DEGO 2 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO 2 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564939
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D3PORT3S | DEGO + [Opción 1]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO + [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/HL7E9qP8Y3QN/7GJLRjZnjck8/564940
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 1]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/HL7E9qP8Y3QN/7GJLRjZnjck8/461565.mp4
@@ -53783,6 +53792,15 @@ http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 2]" tvg-logo="http://redworld.pro:8880/images/14e2937a34e5fcd34eea3f9ef49aab8f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/movie/klever1512/jegXn3sKcxD3/564880.mp4
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="D3PORT3S | DEGO 1 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO 1 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564938
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="D3PORT3S | DEGO 2 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO 2 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564939
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D3PORT3S | DEGO + [Opción 2]" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",D3PORT3S | DEGO + [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://starlatino.tv:8880/klever1512/jegXn3sKcxD3/564940
 #EXTINF:-1 tvg-id="" tvg-name="22.11.63 S01 E03 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/e0bc62f08ce818068ec8f8ee63c7fc2b.jpg" group-title="⭐️ Series Ciencia Ficción",22.11.63 S01 E03 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/klever1512/jegXn3sKcxD3/461565.mp4
