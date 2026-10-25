@@ -79283,6 +79283,9 @@ http://www.1play.cool:25461/movie/UsuPack106/78843af301/654067.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/14e2937a34e5fcd34eea3f9ef49aab8f.jpg" group-title="ESTRENOS 2026",HEIZO DE AMOR: LA MAGIA CONTINÚA [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://www.1play.cool:25461/movie/UsuPack106/78843af301/654069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A CUALQUIER PRECIO [Opción 1]" tvg-logo="http://www.1play.cool:25461/images/e08050ea8f9d79c979eb0d2cef0adac5.jpg" group-title="ESTRENOS 2026",A CUALQUIER PRECIO [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://www.1play.cool:25461/movie/UsuPack106/78843af301/658047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MATBOX THE MOVIE 1148365 [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/a63f03f94d95098e03ab51cd12954018.jpg" group-title="ESTRENOS 2026",MATBOX THE MOVIE 1148365 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://www.1play.cool:25461/movie/UsuPack106/78843af301/658068.mkv
@@ -198893,6 +198896,9 @@ http://starlatino.tv:8880/series/Chicomito171/meG9X7tA6KyU/529369.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DELI BOYS S02 E06 [Opción 2]" tvg-logo="http://redworld.pro:8880/images/cf04677f76ee0692400c90595b4357a4.jpg" group-title="⭐️ Series Disney ",DELI BOYS S02 E06 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://starlatino.tv:8880/series/Chicomito171/meG9X7tA6KyU/529370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A CUALQUIER PRECIO [Opción 2]" tvg-logo="http://www.1play.cool:25461/images/e08050ea8f9d79c979eb0d2cef0adac5.jpg" group-title="ESTRENOS 2026",A CUALQUIER PRECIO [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://www.1play.cool:25461/movie/UsuPack106/78843af301/658047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1 FAITH FM [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="",1 FAITH FM [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/Tony@Canon1211/6987564/17785
