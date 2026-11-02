@@ -35051,6 +35051,9 @@ http://fortv.cc:8080/series/Tony@Canon1211/6987564/333002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DEXTER: RESURRECTION S01 E10 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHuIndo51r3cyA1UwYiEYAcXEbo.jpg" group-title="2025 TV Series",DEXTER: RESURRECTION S01 E10 [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/series/Tony@Canon1211/6987564/333001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER: RESURRECTION S02 E01 [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOxWqj1jM5ROPvlfKYHqvONdqVi.jpg" group-title="2025 TV Series",DEXTER: RESURRECTION S02 E01 [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/series/Tony@Canon1211/6987564/333776.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1 FAITH FM [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="",1 FAITH FM [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/29904783/29904783/17785
@@ -51743,4 +51746,6 @@ http://fortv.cc:8080/series/29904783/29904783/333002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DEXTER: RESURRECTION S01 E10 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHuIndo51r3cyA1UwYiEYAcXEbo.jpg" group-title="2025 TV Series",DEXTER: RESURRECTION S01 E10 [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/series/29904783/29904783/333001.mkv
-# Actualizado: Mon Nov  2 04:35:02 UTC 2026
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER: RESURRECTION S02 E01 [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOxWqj1jM5ROPvlfKYHqvONdqVi.jpg" group-title="2025 TV Series",DEXTER: RESURRECTION S02 E01 [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/series/29904783/29904783/333776.mkv
