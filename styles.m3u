@@ -25766,6 +25766,12 @@ http://fortv.cc:8080/Tony@Canon1211/6987564/333901
 #EXTINF:-1 tvg-id="" tvg-name="NCAAB 21: GEORGIA SOUTHERN VS. GEORGIA TE @ 6 NOV 07:00 PM ET [Opción 1]" tvg-logo="" group-title="NCAAB",NCAAB 21: GEORGIA SOUTHERN VS. GEORGIA TE @ 6 NOV 07:00 PM ET [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/Tony@Canon1211/6987564/333946
+#EXTINF:-1 tvg-id="" tvg-name="SHOWDOWN IN SECRET CITY [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZSfxOfkJK1WeGx9KTv9YruwvM.jpg" group-title="2026 Movies",SHOWDOWN IN SECRET CITY [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/Tony@Canon1211/6987564/333981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZOMBIESLUTS STRIPCLUB SLAUGHTERHOUSE [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m67JZIPWecr0SSFctiHsoI7vicm.jpg" group-title="2026 Movies",ZOMBIESLUTS STRIPCLUB SLAUGHTERHOUSE [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/Tony@Canon1211/6987564/333986.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 DAYS TO KILL [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xOH2JhBHPmk2ZCniBpWhiZ6xeC.jpg" group-title="Extra - EN-Movies",3 DAYS TO KILL [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/movie/Tony@Canon1211/6987564/234370.mp4
@@ -43397,6 +43403,12 @@ http://fortv.cc:8080/29904783/29904783/333901
 #EXTINF:-1 tvg-id="" tvg-name="NCAAB 21: GEORGIA SOUTHERN VS. GEORGIA TE @ 6 NOV 07:00 PM ET [Opción 2]" tvg-logo="" group-title="NCAAB",NCAAB 21: GEORGIA SOUTHERN VS. GEORGIA TE @ 6 NOV 07:00 PM ET [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/29904783/29904783/333946
+#EXTINF:-1 tvg-id="" tvg-name="SHOWDOWN IN SECRET CITY [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZSfxOfkJK1WeGx9KTv9YruwvM.jpg" group-title="2026 Movies",SHOWDOWN IN SECRET CITY [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/29904783/29904783/333981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZOMBIESLUTS STRIPCLUB SLAUGHTERHOUSE [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m67JZIPWecr0SSFctiHsoI7vicm.jpg" group-title="2026 Movies",ZOMBIESLUTS STRIPCLUB SLAUGHTERHOUSE [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/29904783/29904783/333986.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MINIMAL [Opción 1]" tvg-logo="" group-title="New Radio Stations",RECORD MINIMAL [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/29904783/29904783/306928
