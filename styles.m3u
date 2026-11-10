@@ -25778,6 +25778,9 @@ http://fortv.cc:8080/Tony@Canon1211/6987564/334049
 #EXTINF:-1 tvg-id="" tvg-name="USA PPV03: WWE CROWN JEWEL 2026 @ 12:00 PM EST [Opción 1]" tvg-logo="" group-title="PPV | UFC",USA PPV03: WWE CROWN JEWEL 2026 @ 12:00 PM EST [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/Tony@Canon1211/6987564/334136
+#EXTINF:-1 tvg-id="" tvg-name="A DOG'S PERFECT RISTMAS [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg" group-title="2026 Movies",A DOG'S PERFECT RISTMAS [Opción 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/Tony@Canon1211/6987564/334199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 DAYS TO KILL [Opción 1]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xOH2JhBHPmk2ZCniBpWhiZ6xeC.jpg" group-title="Extra - EN-Movies",3 DAYS TO KILL [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/movie/Tony@Canon1211/6987564/234370.mp4
@@ -43424,6 +43427,9 @@ http://fortv.cc:8080/29904783/29904783/334049
 #EXTINF:-1 tvg-id="" tvg-name="USA PPV03: WWE CROWN JEWEL 2026 @ 12:00 PM EST [Opción 2]" tvg-logo="" group-title="PPV | UFC",USA PPV03: WWE CROWN JEWEL 2026 @ 12:00 PM EST [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/29904783/29904783/334136
+#EXTINF:-1 tvg-id="" tvg-name="A DOG'S PERFECT RISTMAS [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg" group-title="2026 Movies",A DOG'S PERFECT RISTMAS [Opción 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://fortv.cc:8080/movie/29904783/29904783/334199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MINIMAL [Opción 1]" tvg-logo="" group-title="New Radio Stations",RECORD MINIMAL [Opción 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/29904783/29904783/306928
@@ -51761,4 +51767,3 @@ http://fortv.cc:8080/movie/Nc0hGw/732938/318361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WINTERSET [Opción 2]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8ZlT5VMv3HaD8Up2afmaXnjiDf.jpg" group-title="2025 MOVIES",WINTERSET [Opción 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://fortv.cc:8080/movie/Nc0hGw/732938/318363.mp4
-# Actualizado: Mon Nov  9 15:16:10 UTC 2026
